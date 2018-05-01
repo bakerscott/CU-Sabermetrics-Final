@@ -1,0 +1,1001 @@
+BAT_ID,FIRST_NAME_TX,LAST_NAME_TX,EVENT_CD,VALUE_CD,EVENT_TX,SHORTNAME_TX,LONGNAME_TX,VALUE_CD,SHORTNAME_TX,LONGNAME_TX,EVENT_OUTS_CT,RBI_CT,BAT_DEST_ID,RUN1_DEST_ID,RUN2_DEST_ID,RUN3_DEST_ID,BAT_PLAY_TX,START_BAT_SCORE_CT,START_FLD_SCORE_CT,GAME_ID,AWAY_TEAM_ID,HOME_TEAM_ID,OUTS_CT,BAT_HAND_CD,GAME_DT,AWAY_SCORE_CT,HOME_SCORE_CT,AWAY_HITS_CT,HOME_HITS_CT
+aybae001,Erick,Aybar,2,2,13/BG,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,0,ANA201305020,BAL,ANA,0,B,20130502,5,1,10,4
+aybae001,Erick,Aybar,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,1,ANA201305020,BAL,ANA,0,B,20130502,5,1,10,4
+aybae001,Erick,Aybar,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,3,ANA201305020,BAL,ANA,2,B,20130502,5,1,10,4
+aybae001,Erick,Aybar,2,2,3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,3,0,0,ANA201305030,BAL,ANA,0,B,20130503,0,4,3,8
+aybae001,Erick,Aybar,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,1,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+aybae001,Erick,Aybar,2,2,9/F-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,2,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+aybae001,Erick,Aybar,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,4,5,ANA201305040,BAL,ANA,2,B,20130504,5,4,12,6
+aybae001,Erick,Aybar,2,2,13/BG,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,3,1,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+aybae001,Erick,Aybar,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,3,3,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+aybae001,Erick,Aybar,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,0,ANA201305140,KCA,ANA,0,B,20130514,2,6,6,12
+aybae001,Erick,Aybar,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,4,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+aybae001,Erick,Aybar,2,2,5!/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,5,0,0,ANA201305150,KCA,ANA,0,B,20130515,9,5,13,12
+aybae001,Erick,Aybar,2,2,6/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,6,0,8,ANA201305150,KCA,ANA,1,B,20130515,9,5,13,12
+aybae001,Erick,Aybar,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,4,9,ANA201305150,KCA,ANA,1,B,20130515,9,5,13,12
+aybae001,Erick,Aybar,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,0,ANA201305160,CHA,ANA,0,B,20130516,5,4,9,7
+aybae001,Erick,Aybar,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,4,2,ANA201305160,CHA,ANA,1,B,20130516,5,4,9,7
+aybae001,Erick,Aybar,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,1,ANA201305170,CHA,ANA,0,B,20130517,3,0,8,3
+aybae001,Erick,Aybar,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,1,ANA201305170,CHA,ANA,1,B,20130517,3,0,8,3
+aybae001,Erick,Aybar,2,2,7/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,0,ANA201305180,CHA,ANA,0,B,20130518,9,12,17,12
+aybae001,Erick,Aybar,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,1,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+aybae001,Erick,Aybar,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,2,ANA201305170,CHA,ANA,1,B,20130517,3,0,8,3
+aybae001,Erick,Aybar,20,20,S4/G-,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,4,ANA201304090,OAK,ANA,0,B,20130409,9,5,12,13
+aybae001,Erick,Aybar,20,20,S7/F,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,2,ANA201305020,BAL,ANA,0,B,20130502,5,1,10,4
+aybae001,Erick,Aybar,20,20,S8/F-,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,4,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+aybae001,Erick,Aybar,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,5,ANA201305050,BAL,ANA,2,B,20130505,8,4,8,11
+aybae001,Erick,Aybar,21,21,D9/F/REV,2B,Double,0,___,Empty,0,0,2,0,0,0,,1,0,ANA201305030,BAL,ANA,2,B,20130503,0,4,3,8
+aybae001,Erick,Aybar,2,2,43/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,43,1,0,ANA201305030,BAL,ANA,1,B,20130503,0,4,3,8
+aybae001,Erick,Aybar,2,2,64(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,0,1,ANA201305170,CHA,ANA,2,B,20130517,3,0,8,3
+aybae001,Erick,Aybar,20,20,S9/G.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,0,3,ANA201304090,OAK,ANA,0,B,20130409,9,5,12,13
+aybae001,Erick,Aybar,20,20,S7/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,0,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+aybae001,Erick,Aybar,20,20,S9/G.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,2,1,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+aybae001,Erick,Aybar,21,21,D7/F.1-3,2B,Double,1,1__,"1B only",0,0,2,3,0,0,,4,8,ANA201305050,BAL,ANA,2,B,20130505,8,4,8,11
+aybae001,Erick,Aybar,2,2,163/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,163,2,2,ANA201305160,CHA,ANA,1,B,20130516,5,4,9,7
+aybae001,Erick,Aybar,20,20,S9/L.2XH(92),1B,Single,2,_2_,"2B only",1,0,1,0,0,0,,0,0,ANA201305160,CHA,ANA,2,B,20130516,5,4,9,7
+aybae001,Erick,Aybar,2,2,3/P3F,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,3,3,0,ANA201305030,BAL,ANA,1,B,20130503,0,4,3,8
+aybae001,Erick,Aybar,2,2,36(1)/FO/G.2-3,Out,"Generic Out",3,12_,"1B & 2B",1,0,1,0,3,0,,0,0,ANA201305180,CHA,ANA,1,B,20130518,9,12,17,12
+aybae001,Erick,Aybar,2,2,43/G.3-H;2-3,Out,"Generic Out",6,_23,"2B & 3B",1,1,0,0,3,4,43,2,4,ANA201305040,BAL,ANA,1,B,20130504,5,4,12,6
+aybae001,Erick,Aybar,2,2,6(1)3/GDP,Out,"Generic Out",7,123,Loaded,2,0,0,0,2,3,63,2,8,ANA201305150,KCA,ANA,1,B,20130515,9,5,13,12
+aybae001,Erick,Aybar,2,2,8/F,Out,"Generic Out",7,123,Loaded,1,0,0,1,2,3,8,3,8,ANA201305150,KCA,ANA,1,B,20130515,9,5,13,12
+bourp001,Peter,Bourjos,2,2,3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,3,4,10,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+bourp001,Peter,Bourjos,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,6,ANA201304110,OAK,ANA,2,R,20130411,8,1,16,5
+bourp001,Peter,Bourjos,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,5,ANA201304120,HOU,ANA,1,R,20130412,5,0,10,4
+bourp001,Peter,Bourjos,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,1,1,ANA201304140,HOU,ANA,0,R,20130414,1,4,7,9
+bourp001,Peter,Bourjos,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,2,1,ANA201304140,HOU,ANA,0,R,20130414,1,4,7,9
+bourp001,Peter,Bourjos,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,2,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+bourp001,Peter,Bourjos,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+bourp001,Peter,Bourjos,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,1,ANA201304220,TEX,ANA,0,R,20130422,7,6,15,9
+bourp001,Peter,Bourjos,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,3,2,ANA201304220,TEX,ANA,0,R,20130422,7,6,15,9
+bourp001,Peter,Bourjos,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,0,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+bourp001,Peter,Bourjos,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,2,0,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+bourp001,Peter,Bourjos,2,2,53/G-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,0,ANA201304240,TEX,ANA,2,R,20130424,11,3,11,9
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,5,9,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,5,ANA201304120,HOU,ANA,0,R,20130412,5,0,10,4
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201304140,HOU,ANA,0,R,20130414,1,4,7,9
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,9,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,11,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+bourp001,Peter,Bourjos,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,2,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+bourp001,Peter,Bourjos,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+bourp001,Peter,Bourjos,16,16,HP,HBP,"Hit By Pitch",0,___,Empty,0,0,1,0,0,0,,0,3,ANA201304120,HOU,ANA,0,R,20130412,5,0,10,4
+bourp001,Peter,Bourjos,16,16,HP,HBP,"Hit By Pitch",0,___,Empty,0,0,1,0,0,0,,4,4,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+bourp001,Peter,Bourjos,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,4,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+bourp001,Peter,Bourjos,20,20,S5/G-,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,11,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+bourp001,Peter,Bourjos,20,20,S6/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,1,ANA201304110,OAK,ANA,0,R,20130411,8,1,16,5
+bourp001,Peter,Bourjos,20,20,S7/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+bourp001,Peter,Bourjos,20,20,S6/G-,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+bourp001,Peter,Bourjos,20,20,S6/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,9,0,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+bourp001,Peter,Bourjos,20,20,S7/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,6,7,ANA201304220,TEX,ANA,0,R,20130422,7,6,15,9
+bourp001,Peter,Bourjos,20,20,S6/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,0,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+bourp001,Peter,Bourjos,2,2,64(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,43,2,4,ANA201304100,OAK,ANA,0,R,20130410,11,5,16,14
+bourp001,Peter,Bourjos,2,2,53/BG,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,53,2,1,ANA201304140,HOU,ANA,2,R,20130414,1,4,7,9
+bourp001,Peter,Bourjos,2,2,13/SH/BG.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,13,2,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+bourp001,Peter,Bourjos,2,2,53/SH/BG.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,53,0,1,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,0,5,ANA201304120,HOU,ANA,1,R,20130412,5,0,10,4
+bourp001,Peter,Bourjos,16,16,HP.1-2,HBP,"Hit By Pitch",1,1__,"1B only",0,0,1,2,0,0,,3,1,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+bourp001,Peter,Bourjos,20,20,S5/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,4,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+bourp001,Peter,Bourjos,20,20,S2/BG.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+bourp001,Peter,Bourjos,20,20,S7/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,4,4,ANA201304230,TEX,ANA,1,R,20130423,4,5,8,10
+bourp001,Peter,Bourjos,2,2,63/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,63,2,4,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+bourp001,Peter,Bourjos,14,14,W,NIBB,"Nonintentional Walk",2,_2_,"2B only",0,0,1,0,2,0,,6,3,ANA201304220,TEX,ANA,2,R,20130422,7,6,15,9
+bourp001,Peter,Bourjos,20,20,S2/BG.2-3,1B,Single,2,_2_,"2B only",0,0,1,0,3,0,,0,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+bourp001,Peter,Bourjos,3,3,K,K,Strikeout,3,12_,"1B & 2B",1,0,0,1,2,0,2,1,1,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+bourp001,Peter,Bourjos,20,20,S6/G-.2-3;1-2,1B,Single,3,12_,"1B & 2B",0,0,1,2,3,0,,5,0,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+bourp001,Peter,Bourjos,2,2,4/P,Out,"Generic Out",5,1_3,"1B & 3B",1,0,0,1,0,3,4,5,11,ANA201304100,OAK,ANA,2,R,20130410,11,5,16,14
+bourp001,Peter,Bourjos,5,5,DI.1-2,DI,"Defensive Indifferen",5,1_3,"1B & 3B",0,0,0,2,0,3,,5,9,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+bourp001,Peter,Bourjos,20,20,S8/L.3-H;1-2,1B,Single,5,1_3,"1B & 3B",0,1,1,2,0,4,,0,11,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+bourp001,Peter,Bourjos,2,2,9/F9LF,Out,"Generic Out",6,_23,"2B & 3B",1,0,0,0,2,3,9,5,9,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+bourp001,Peter,Bourjos,2,2,53/G+,Out,"Generic Out",6,_23,"2B & 3B",1,0,0,0,2,3,53,1,1,ANA201304110,OAK,ANA,2,R,20130411,8,1,16,5
+bourp001,Peter,Bourjos,2,2,7/SF/F.3-H,Out,"Generic Out",6,_23,"2B & 3B",1,1,0,0,2,4,7,9,0,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+bourp001,Peter,Bourjos,22,22,T78/F.3-H;2-H;1-H,3B,Triple,7,123,Loaded,0,3,3,4,4,4,,3,0,ANA201304190,DET,ANA,2,R,20130419,1,8,10,16
+calla001,Alberto,Callaspo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,1,4,ANA201304100,OAK,ANA,0,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,0,ANA201304110,OAK,ANA,0,B,20130411,8,1,16,5
+calla001,Alberto,Callaspo,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,1,1,ANA201304110,OAK,ANA,1,B,20130411,8,1,16,5
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,0,ANA201305030,BAL,ANA,2,B,20130503,0,4,3,8
+calla001,Alberto,Callaspo,2,2,9/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,3,ANA201305040,BAL,ANA,1,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,4,4,ANA201305040,BAL,ANA,1,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,7,ANA201305130,KCA,ANA,0,B,20130513,11,4,19,9
+calla001,Alberto,Callaspo,2,2,5/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,5,4,11,ANA201305130,KCA,ANA,1,B,20130513,11,4,19,9
+calla001,Alberto,Callaspo,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,2,1,ANA201305140,KCA,ANA,2,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,5,9,ANA201305150,KCA,ANA,2,B,20130515,9,5,13,12
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,0,ANA201305160,CHA,ANA,0,B,20130516,5,4,9,7
+calla001,Alberto,Callaspo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,4,5,ANA201305160,CHA,ANA,0,B,20130516,5,4,9,7
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,1,ANA201305170,CHA,ANA,0,B,20130517,3,0,8,3
+calla001,Alberto,Callaspo,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,0,ANA201305180,CHA,ANA,2,B,20130518,9,12,17,12
+calla001,Alberto,Callaspo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,2,5,ANA201304100,OAK,ANA,0,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,3,0,ANA201305030,BAL,ANA,0,B,20130503,0,4,3,8
+calla001,Alberto,Callaspo,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,1,ANA201304100,OAK,ANA,1,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,4,ANA201305040,BAL,ANA,2,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,20,20,S9/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,5,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,11,ANA201305130,KCA,ANA,0,B,20130513,11,4,19,9
+calla001,Alberto,Callaspo,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,1,ANA201305150,KCA,ANA,2,B,20130515,9,5,13,12
+calla001,Alberto,Callaspo,21,21,D9/G,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,3,ANA201305130,KCA,ANA,0,B,20130513,11,4,19,9
+calla001,Alberto,Callaspo,2,2,7/L-,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,0,4,ANA201304090,OAK,ANA,0,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,2,2,43/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,43,5,9,ANA201304090,OAK,ANA,1,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,2,2,43/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,43,0,1,ANA201304110,OAK,ANA,1,B,20130411,8,1,16,5
+calla001,Alberto,Callaspo,2,2,9/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,0,2,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,2,2,8/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,3,1,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,2,2,36(1)1/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,61,0,0,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,2,2,64(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,2,1,ANA201305160,CHA,ANA,2,B,20130516,5,4,9,7
+calla001,Alberto,Callaspo,2,2,64(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,43,0,1,ANA201305170,CHA,ANA,0,B,20130517,3,0,8,3
+calla001,Alberto,Callaspo,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,0,2,ANA201305170,CHA,ANA,1,B,20130517,3,0,8,3
+calla001,Alberto,Callaspo,3,3,K+SB2,K,Strikeout,1,1__,"1B only",1,0,0,2,0,0,2,2,4,ANA201304090,OAK,ANA,0,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,4,10,ANA201304100,OAK,ANA,2,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,5,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,6,6,CS2(26),CS,"Caught Stealing",1,1__,"1B only",1,0,0,0,0,0,,4,4,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,11,11,BK.1-2,BK,Balk,1,1__,"1B only",0,0,0,2,0,0,,4,5,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,4,11,ANA201304100,OAK,ANA,2,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,20,20,S9/L-.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,4,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,20,20,S61/G-.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,1,8,ANA201305150,KCA,ANA,1,B,20130515,9,5,13,12
+calla001,Alberto,Callaspo,2,2,7/F,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,7,4,10,ANA201304100,OAK,ANA,2,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,2,2,43/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,43,4,8,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,2,2,9/F,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,9,4,2,ANA201305160,CHA,ANA,1,B,20130516,5,4,9,7
+calla001,Alberto,Callaspo,9,9,WP.2-3,WP,"Wild Pitch",2,_2_,"2B only",0,0,0,0,3,0,,5,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,19,19,FC1/G.2X3(1565);B-2,FC,"Fielder Choice",2,_2_,"2B only",1,0,2,0,0,0,,4,5,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,2,2,4/P,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,4,1,0,ANA201305030,BAL,ANA,2,B,20130503,0,4,3,8
+calla001,Alberto,Callaspo,20,20,S8/G.2-H;1-2,1B,Single,3,12_,"1B & 2B",0,1,1,2,4,0,,1,4,ANA201304090,OAK,ANA,2,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,20,20,S8/G.2-H;1-2,1B,Single,3,12_,"1B & 2B",0,1,1,2,4,0,,0,1,ANA201305050,BAL,ANA,2,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,3,3,K,K,Strikeout,4,__3,"3B only",1,0,0,0,0,3,2,5,4,ANA201304090,OAK,ANA,2,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,14,14,W,NIBB,"Nonintentional Walk",4,__3,"3B only",0,0,1,0,0,3,,5,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,14,14,W,NIBB,"Nonintentional Walk",4,__3,"3B only",0,0,1,0,0,3,,4,9,ANA201305150,KCA,ANA,2,B,20130515,9,5,13,12
+calla001,Alberto,Callaspo,2,2,8/SF/L.3-H,Out,"Generic Out",5,1_3,"1B & 3B",1,1,0,1,0,4,8,2,8,ANA201305150,KCA,ANA,0,B,20130515,9,5,13,12
+congh001,Hank,Conger,2,2,13/BG,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,4,ANA201304120,HOU,ANA,2,B,20130412,5,0,10,4
+congh001,Hank,Conger,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,5,ANA201304120,HOU,ANA,0,B,20130412,5,0,10,4
+congh001,Hank,Conger,2,2,3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,3,2,1,ANA201304140,HOU,ANA,0,B,20130414,1,4,7,9
+congh001,Hank,Conger,2,2,31/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,31,2,1,ANA201304140,HOU,ANA,0,B,20130414,1,4,7,9
+congh001,Hank,Conger,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,3,3,ANA201304210,DET,ANA,1,B,20130421,3,4,10,7
+congh001,Hank,Conger,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,1,ANA201305020,BAL,ANA,0,B,20130502,5,1,10,4
+congh001,Hank,Conger,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,3,ANA201305020,BAL,ANA,2,B,20130502,5,1,10,4
+congh001,Hank,Conger,2,2,13/BG,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,2,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+congh001,Hank,Conger,2,2,3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,3,0,3,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+congh001,Hank,Conger,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,4,5,ANA201305160,CHA,ANA,1,B,20130516,5,4,9,7
+congh001,Hank,Conger,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,4,ANA201304130,HOU,ANA,0,B,20130413,4,5,4,13
+congh001,Hank,Conger,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,0,B,20130421,3,4,10,7
+congh001,Hank,Conger,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,5,ANA201305050,BAL,ANA,2,B,20130505,8,4,8,11
+congh001,Hank,Conger,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,1,ANA201305170,CHA,ANA,2,B,20130517,3,0,8,3
+congh001,Hank,Conger,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,1,ANA201305170,CHA,ANA,1,B,20130517,3,0,8,3
+congh001,Hank,Conger,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,4,8,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+congh001,Hank,Conger,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,5,ANA201304120,HOU,ANA,2,B,20130412,5,0,10,4
+congh001,Hank,Conger,20,20,S9/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305020,BAL,ANA,1,B,20130502,5,1,10,4
+congh001,Hank,Conger,20,20,S5/BG,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,4,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+congh001,Hank,Conger,20,20,S8/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,11,ANA201305130,KCA,ANA,2,B,20130513,11,4,19,9
+congh001,Hank,Conger,21,21,D9/F.BX2(96),2B,Double,0,___,Empty,1,0,0,0,0,0,96,1,1,ANA201304140,HOU,ANA,1,B,20130414,1,4,7,9
+congh001,Hank,Conger,2,2,46(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,63,3,3,ANA201304210,DET,ANA,1,B,20130421,3,4,10,7
+congh001,Hank,Conger,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,3,1,ANA201304210,DET,ANA,0,B,20130421,3,4,10,7
+congh001,Hank,Conger,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,4,4,ANA201305040,BAL,ANA,2,B,20130504,5,4,12,6
+congh001,Hank,Conger,6,6,CS2(26),CS,"Caught Stealing",1,1__,"1B only",1,0,0,0,0,0,,4,1,ANA201304140,HOU,ANA,2,B,20130414,1,4,7,9
+congh001,Hank,Conger,2,2,3/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,3,4,4,ANA201305040,BAL,ANA,2,B,20130504,5,4,12,6
+congh001,Hank,Conger,2,2,3/G.2-3;1-2,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,2,3,0,3,3,1,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+congh001,Hank,Conger,20,20,S9/L.2-H;1-3,1B,Single,3,12_,"1B & 2B",0,1,1,3,4,0,,4,11,ANA201304100,OAK,ANA,2,B,20130410,11,5,16,14
+congh001,Hank,Conger,2,2,43/G,Out,"Generic Out",5,1_3,"1B & 3B",1,0,0,1,0,3,43,0,1,ANA201304210,DET,ANA,2,B,20130421,3,4,10,7
+congh001,Hank,Conger,20,20,S9/G.3-H;1-3,1B,Single,5,1_3,"1B & 3B",0,1,1,3,0,4,,2,1,ANA201305050,BAL,ANA,2,B,20130505,8,4,8,11
+congh001,Hank,Conger,2,2,64(1)3/GDP.3-H(NR);2-3,Out,"Generic Out",7,123,Loaded,2,0,0,0,3,4,43,1,11,ANA201304240,TEX,ANA,0,B,20130424,11,3,11,9
+huntt001,Torii,Hunter,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,2,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+huntt001,Torii,Hunter,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+huntt001,Torii,Hunter,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,9,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+huntt001,Torii,Hunter,2,2,6!3!/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,9,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+huntt001,Torii,Hunter,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,3,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+huntt001,Torii,Hunter,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+huntt001,Torii,Hunter,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,1,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+huntt001,Torii,Hunter,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+huntt001,Torii,Hunter,20,20,S4/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+huntt001,Torii,Hunter,21,21,D9/G,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,8,ANA201304190,DET,ANA,2,R,20130419,1,8,10,16
+huntt001,Torii,Hunter,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,0,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+huntt001,Torii,Hunter,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,0,2,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+huntt001,Torii,Hunter,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,3,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+huntt001,Torii,Hunter,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,1,0,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+huntt001,Torii,Hunter,2,2,63/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,63,0,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+huntt001,Torii,Hunter,3,3,K,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,2,3,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+huntt001,Torii,Hunter,14,14,W,NIBB,"Nonintentional Walk",2,_2_,"2B only",0,0,1,0,2,0,,0,2,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+kendh001,Howard,Kendrick,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,1,6,ANA201304110,OAK,ANA,0,R,20130411,8,1,16,5
+kendh001,Howard,Kendrick,2,2,3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,3,0,4,ANA201304120,HOU,ANA,1,R,20130412,5,0,10,4
+kendh001,Howard,Kendrick,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,5,ANA201304120,HOU,ANA,1,R,20130412,5,0,10,4
+kendh001,Howard,Kendrick,2,2,31/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,31,2,1,ANA201304140,HOU,ANA,2,R,20130414,1,4,7,9
+kendh001,Howard,Kendrick,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+kendh001,Howard,Kendrick,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,9,0,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+kendh001,Howard,Kendrick,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,9,0,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+kendh001,Howard,Kendrick,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+kendh001,Howard,Kendrick,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,4,3,ANA201304230,TEX,ANA,2,R,20130423,4,5,8,10
+kendh001,Howard,Kendrick,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,1,ANA201305020,BAL,ANA,2,R,20130502,5,1,10,4
+kendh001,Howard,Kendrick,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,3,ANA201305020,BAL,ANA,1,R,20130502,5,1,10,4
+kendh001,Howard,Kendrick,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,0,ANA201305030,BAL,ANA,1,R,20130503,0,4,3,8
+kendh001,Howard,Kendrick,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,3,0,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+kendh001,Howard,Kendrick,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,4,0,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+kendh001,Howard,Kendrick,2,2,8/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,3,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+kendh001,Howard,Kendrick,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,1,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+kendh001,Howard,Kendrick,2,2,4!/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,4,11,ANA201305130,KCA,ANA,0,R,20130513,11,4,19,9
+kendh001,Howard,Kendrick,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,1,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+kendh001,Howard,Kendrick,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,5,9,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201304130,HOU,ANA,2,R,20130413,4,5,4,13
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,1,ANA201304140,HOU,ANA,0,R,20130414,1,4,7,9
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,9,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305020,BAL,ANA,0,R,20130502,5,1,10,4
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305180,CHA,ANA,1,R,20130518,9,12,17,12
+kendh001,Howard,Kendrick,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,4,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+kendh001,Howard,Kendrick,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,2,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+kendh001,Howard,Kendrick,20,20,S16/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,4,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+kendh001,Howard,Kendrick,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,1,ANA201304100,OAK,ANA,0,R,20130410,11,5,16,14
+kendh001,Howard,Kendrick,20,20,S7/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,5,11,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+kendh001,Howard,Kendrick,20,20,S9/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,2,ANA201304130,HOU,ANA,0,R,20130413,4,5,4,13
+kendh001,Howard,Kendrick,20,20,S9/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,1,ANA201304140,HOU,ANA,2,R,20130414,1,4,7,9
+kendh001,Howard,Kendrick,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,11,ANA201304240,TEX,ANA,1,R,20130424,11,3,11,9
+kendh001,Howard,Kendrick,20,20,S7/F-,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,4,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+kendh001,Howard,Kendrick,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,2,ANA201305140,KCA,ANA,1,R,20130514,2,6,6,12
+kendh001,Howard,Kendrick,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,5,2,ANA201305140,KCA,ANA,1,R,20130514,2,6,6,12
+kendh001,Howard,Kendrick,20,20,S7/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,8,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+kendh001,Howard,Kendrick,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,1,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+kendh001,Howard,Kendrick,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,1,ANA201305170,CHA,ANA,0,R,20130517,3,0,8,3
+kendh001,Howard,Kendrick,23,23,HR/8/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,4,4,ANA201304230,TEX,ANA,1,R,20130423,4,5,8,10
+kendh001,Howard,Kendrick,23,23,HR/8/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,1,1,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+kendh001,Howard,Kendrick,2,2,9/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,5,9,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+kendh001,Howard,Kendrick,2,2,9/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,0,0,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+kendh001,Howard,Kendrick,2,2,9/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,0,5,ANA201304120,HOU,ANA,2,R,20130412,5,0,10,4
+kendh001,Howard,Kendrick,2,2,54(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,1,2,ANA201304130,HOU,ANA,2,R,20130413,4,5,4,13
+kendh001,Howard,Kendrick,2,2,36(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,3,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+kendh001,Howard,Kendrick,2,2,16(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,63,9,0,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+kendh001,Howard,Kendrick,2,2,4/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,4,6,6,ANA201304220,TEX,ANA,2,R,20130422,7,6,15,9
+kendh001,Howard,Kendrick,2,2,36(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,4,4,ANA201304230,TEX,ANA,1,R,20130423,4,5,8,10
+kendh001,Howard,Kendrick,2,2,64(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,43,0,2,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+kendh001,Howard,Kendrick,2,2,46(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,63,4,5,ANA201305050,BAL,ANA,0,R,20130505,8,4,8,11
+kendh001,Howard,Kendrick,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,0,0,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,0,0,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,2,4,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+kendh001,Howard,Kendrick,3,3,K23,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,23,1,4,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+kendh001,Howard,Kendrick,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,0,2,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+kendh001,Howard,Kendrick,20,20,S7/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,1,4,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+kendh001,Howard,Kendrick,20,20,S7/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,2,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+kendh001,Howard,Kendrick,20,20,S2/BG.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,1,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+kendh001,Howard,Kendrick,20,20,S8/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,3,3,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+kendh001,Howard,Kendrick,20,20,S8/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,1,0,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+kendh001,Howard,Kendrick,20,20,S7/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,3,1,ANA201305050,BAL,ANA,1,R,20130505,8,4,8,11
+kendh001,Howard,Kendrick,20,20,S9/L-.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,2,8,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+kendh001,Howard,Kendrick,22,22,T9/L.1-H(UR),3B,Triple,1,1__,"1B only",0,1,3,5,0,0,,4,4,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+kendh001,Howard,Kendrick,2,2,53/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,53,4,5,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+kendh001,Howard,Kendrick,2,2,31/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,31,4,9,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,2,0,1,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+kendh001,Howard,Kendrick,9,9,WP.2-3,WP,"Wild Pitch",2,_2_,"2B only",0,0,0,0,3,0,,3,10,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+kendh001,Howard,Kendrick,23,23,HR/8/F.2-H,HR,Homerun,2,_2_,"2B only",0,2,4,0,4,0,,2,0,ANA201304230,TEX,ANA,1,R,20130423,4,5,8,10
+kendh001,Howard,Kendrick,2,2,54(1)/FO/G.2-3,Out,"Generic Out",3,12_,"1B & 2B",1,0,1,0,3,0,,2,4,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+kendh001,Howard,Kendrick,4,4,SB3;SB2,SB,"Stolen Base",3,12_,"1B & 2B",0,0,0,2,3,0,,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+kendh001,Howard,Kendrick,20,20,S64/G.2-H(UR);1X3(645),1B,Single,3,12_,"1B & 2B",1,1,1,0,5,0,,1,0,ANA201304230,TEX,ANA,2,R,20130423,4,5,8,10
+kendh001,Howard,Kendrick,20,20,S9/L.2-H;1-3,1B,Single,3,12_,"1B & 2B",0,1,1,3,4,0,,1,1,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+kendh001,Howard,Kendrick,21,21,D7/L.2-H;1-3,2B,Double,3,12_,"1B & 2B",0,1,2,3,4,0,,0,1,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+kendh001,Howard,Kendrick,21,21,D7/L.2-H;1-H,2B,Double,3,12_,"1B & 2B",0,2,2,4,4,0,,2,2,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+kendh001,Howard,Kendrick,2,2,43/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,43,3,1,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+kendh001,Howard,Kendrick,2,2,53/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,53,4,8,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+kendh001,Howard,Kendrick,2,2,4!3/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,43,4,5,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,4,__3,"3B only",1,0,0,0,0,3,2,3,10,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+kendh001,Howard,Kendrick,2,2,53/G,Out,"Generic Out",5,1_3,"1B & 3B",1,0,0,1,0,3,53,2,1,ANA201304140,HOU,ANA,2,R,20130414,1,4,7,9
+kendh001,Howard,Kendrick,21,21,D8/L.3-H;1-H,2B,Double,5,1_3,"1B & 3B",0,2,2,4,0,4,,0,2,ANA201304220,TEX,ANA,0,R,20130422,7,6,15,9
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,6,_23,"2B & 3B",1,0,0,0,2,3,2,4,11,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+kendh001,Howard,Kendrick,3,3,K,K,Strikeout,6,_23,"2B & 3B",1,0,0,0,2,3,2,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+kendh001,Howard,Kendrick,18,18,E9/SF/F.3-H;2-3;B-2,ROE,Error,6,_23,"2B & 3B",0,1,2,0,3,4,,1,4,ANA201304130,HOU,ANA,1,R,20130413,4,5,4,13
+kendh001,Howard,Kendrick,20,20,S8/L.3-H;2-H,1B,Single,6,_23,"2B & 3B",0,2,1,0,4,4,,2,5,ANA201304100,OAK,ANA,2,R,20130410,11,5,16,14
+kendh001,Howard,Kendrick,20,20,S8/G.3-H;2-H;1-2,1B,Single,7,123,Loaded,0,2,1,2,4,4,,2,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+romia001,Andrew,Romine,2,2,8/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,1,1,ANA201304110,OAK,ANA,0,B,20130411,8,1,16,5
+romia001,Andrew,Romine,2,2,3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,3,2,1,ANA201304140,HOU,ANA,2,B,20130414,1,4,7,9
+romia001,Andrew,Romine,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,3,11,ANA201304240,TEX,ANA,0,B,20130424,11,3,11,9
+romia001,Andrew,Romine,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,6,ANA201304110,OAK,ANA,0,B,20130411,8,1,16,5
+romia001,Andrew,Romine,20,20,S8/F,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,1,ANA201304140,HOU,ANA,2,B,20130414,1,4,7,9
+romia001,Andrew,Romine,2,2,7/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,0,1,ANA201304110,OAK,ANA,0,B,20130411,8,1,16,5
+romia001,Andrew,Romine,2,2,13/SH/BG.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,13,0,0,ANA201304130,HOU,ANA,0,B,20130413,4,5,4,13
+romia001,Andrew,Romine,2,2,4(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,43,1,4,ANA201304130,HOU,ANA,0,B,20130413,4,5,4,13
+romia001,Andrew,Romine,2,2,6(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,4,4,ANA201304230,TEX,ANA,2,B,20130423,4,5,8,10
+romia001,Andrew,Romine,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,0,2,ANA201304130,HOU,ANA,1,B,20130413,4,5,4,13
+romia001,Andrew,Romine,2,2,63/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,63,1,1,ANA201304140,HOU,ANA,2,B,20130414,1,4,7,9
+romia001,Andrew,Romine,2,2,8/L,Out,"Generic Out",5,1_3,"1B & 3B",1,0,0,1,0,3,8,5,11,ANA201304100,OAK,ANA,2,B,20130410,11,5,16,14
+romia001,Andrew,Romine,2,2,3/G,Out,"Generic Out",6,_23,"2B & 3B",1,0,0,0,2,3,3,3,0,ANA201304190,DET,ANA,1,B,20130419,1,8,10,16
+trumm001,Mark,Trumbo,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,5,11,ANA201304100,OAK,ANA,0,R,20130410,11,5,16,14
+trumm001,Mark,Trumbo,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,1,8,ANA201304110,OAK,ANA,2,R,20130411,8,1,16,5
+trumm001,Mark,Trumbo,2,2,8/F+,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,4,ANA201304120,HOU,ANA,0,R,20130412,5,0,10,4
+trumm001,Mark,Trumbo,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,5,ANA201304120,HOU,ANA,0,R,20130412,5,0,10,4
+trumm001,Mark,Trumbo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,0,ANA201304130,HOU,ANA,1,R,20130413,4,5,4,13
+trumm001,Mark,Trumbo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,4,1,ANA201304140,HOU,ANA,1,R,20130414,1,4,7,9
+trumm001,Mark,Trumbo,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,9,0,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+trumm001,Mark,Trumbo,2,2,5!3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+trumm001,Mark,Trumbo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,2,ANA201304220,TEX,ANA,0,R,20130422,7,6,15,9
+trumm001,Mark,Trumbo,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,6,6,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+trumm001,Mark,Trumbo,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,1,ANA201305020,BAL,ANA,0,R,20130502,5,1,10,4
+trumm001,Mark,Trumbo,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,3,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+trumm001,Mark,Trumbo,2,2,53/G+,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,4,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+trumm001,Mark,Trumbo,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,3,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+trumm001,Mark,Trumbo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,4,3,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+trumm001,Mark,Trumbo,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,1,ANA201305130,KCA,ANA,0,R,20130513,11,4,19,9
+trumm001,Mark,Trumbo,2,2,2/P2F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,2,1,1,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+trumm001,Mark,Trumbo,2,2,4/L+,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,3,2,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+trumm001,Mark,Trumbo,2,2,53/G-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,2,1,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+trumm001,Mark,Trumbo,2,2,2/P2F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,2,0,3,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+trumm001,Mark,Trumbo,2,2,9/F-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201305180,CHA,ANA,0,R,20130518,9,12,17,12
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,2,ANA201304130,HOU,ANA,2,R,20130413,4,5,4,13
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,2,1,ANA201304140,HOU,ANA,1,R,20130414,1,4,7,9
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,9,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304220,TEX,ANA,0,R,20130422,7,6,15,9
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,3,ANA201304230,TEX,ANA,1,R,20130423,4,5,8,10
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,4,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,11,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,5,ANA201305020,BAL,ANA,1,R,20130502,5,1,10,4
+trumm001,Mark,Trumbo,3,3,K23,K,Strikeout,0,___,Empty,1,0,0,0,0,0,23,1,4,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,11,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,2,8,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,1,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+trumm001,Mark,Trumbo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,1,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+trumm001,Mark,Trumbo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,2,ANA201304220,TEX,ANA,0,R,20130422,7,6,15,9
+trumm001,Mark,Trumbo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,2,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+trumm001,Mark,Trumbo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,4,4,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+trumm001,Mark,Trumbo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,4,5,ANA201305050,BAL,ANA,1,R,20130505,8,4,8,11
+trumm001,Mark,Trumbo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,2,2,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+trumm001,Mark,Trumbo,20,20,S9/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,5,9,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+trumm001,Mark,Trumbo,20,20,S7/G+,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,5,ANA201304120,HOU,ANA,2,R,20130412,5,0,10,4
+trumm001,Mark,Trumbo,20,20,S6/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,2,ANA201304130,HOU,ANA,2,R,20130413,4,5,4,13
+trumm001,Mark,Trumbo,20,20,S15/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+trumm001,Mark,Trumbo,20,20,S7/G+,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+trumm001,Mark,Trumbo,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,9,0,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+trumm001,Mark,Trumbo,20,20,S8/G+,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+trumm001,Mark,Trumbo,20,20,S9/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,1,ANA201305050,BAL,ANA,0,R,20130505,8,4,8,11
+trumm001,Mark,Trumbo,21,21,D9/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,2,0,ANA201304230,TEX,ANA,1,R,20130423,4,5,8,10
+trumm001,Mark,Trumbo,21,21,D8/L+,2B,Double,0,___,Empty,0,0,2,0,0,0,,4,9,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+trumm001,Mark,Trumbo,21,21,D7/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,4,5,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+trumm001,Mark,Trumbo,21,21,D8/G+,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,1,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+trumm001,Mark,Trumbo,23,23,HR/7/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+trumm001,Mark,Trumbo,23,23,HR/78/L,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,0,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+trumm001,Mark,Trumbo,2,2,64(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,4,4,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+trumm001,Mark,Trumbo,2,2,7/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,0,0,ANA201304110,OAK,ANA,0,R,20130411,8,1,16,5
+trumm001,Mark,Trumbo,2,2,54(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,43,1,5,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+trumm001,Mark,Trumbo,2,2,2/P2F/DP.1X1(24),Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,2,0,5,ANA201304120,HOU,ANA,1,R,20130412,5,0,10,4
+trumm001,Mark,Trumbo,2,2,54(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,1,0,ANA201304140,HOU,ANA,2,R,20130414,1,4,7,9
+trumm001,Mark,Trumbo,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,4,4,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+trumm001,Mark,Trumbo,2,2,13/G,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,13,0,9,ANA201304240,TEX,ANA,2,R,20130424,11,3,11,9
+trumm001,Mark,Trumbo,2,2,5/P5F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,5,0,2,ANA201305020,BAL,ANA,2,R,20130502,5,1,10,4
+trumm001,Mark,Trumbo,2,2,2/P2F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,2,5,2,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+trumm001,Mark,Trumbo,2,2,54(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,0,0,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+trumm001,Mark,Trumbo,2,2,3/P3F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,3,1,8,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,6,7,ANA201304220,TEX,ANA,2,R,20130422,7,6,15,9
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,3,11,ANA201304240,TEX,ANA,2,R,20130424,11,3,11,9
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,1,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+trumm001,Mark,Trumbo,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,0,0,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+trumm001,Mark,Trumbo,4,4,SB2.1-3(E2/TH2),SB,"Stolen Base",1,1__,"1B only",0,0,0,3,0,0,,0,1,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+trumm001,Mark,Trumbo,9,9,WP.1-2,WP,"Wild Pitch",1,1__,"1B only",0,0,0,2,0,0,,5,9,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+trumm001,Mark,Trumbo,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,0,0,ANA201305020,BAL,ANA,2,R,20130502,5,1,10,4
+trumm001,Mark,Trumbo,20,20,S8/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,1,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+trumm001,Mark,Trumbo,21,21,D7/L+.1-3,2B,Double,1,1__,"1B only",0,0,2,3,0,0,,4,11,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+trumm001,Mark,Trumbo,21,21,D7/G.1-3,2B,Double,1,1__,"1B only",0,0,2,3,0,0,,1,4,ANA201304130,HOU,ANA,1,R,20130413,4,5,4,13
+trumm001,Mark,Trumbo,23,23,HR/7/L.1-H,HR,Homerun,1,1__,"1B only",0,2,4,4,0,0,,0,4,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+trumm001,Mark,Trumbo,2,2,4/P,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,4,1,1,ANA201304100,OAK,ANA,2,R,20130410,11,5,16,14
+trumm001,Mark,Trumbo,2,2,23/G-,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,23,0,0,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+trumm001,Mark,Trumbo,2,2,63/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,63,5,9,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,2,4,8,ANA201305050,BAL,ANA,0,R,20130505,8,4,8,11
+trumm001,Mark,Trumbo,9,9,WP.2-3,WP,"Wild Pitch",2,_2_,"2B only",0,0,0,0,3,0,,2,10,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+trumm001,Mark,Trumbo,15,15,IW,IBB,"Intentional Walk",2,_2_,"2B only",0,0,1,0,2,0,,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+trumm001,Mark,Trumbo,20,20,S8/L-.2-H,1B,Single,2,_2_,"2B only",0,1,1,0,4,0,,0,4,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+trumm001,Mark,Trumbo,2,2,64(1)/FO/G,Out,"Generic Out",3,12_,"1B & 2B",1,0,1,0,2,0,,0,0,ANA201304190,DET,ANA,2,R,20130419,1,8,10,16
+trumm001,Mark,Trumbo,2,2,54(1)/FO/G.2-H(E4/TH1)(NR)(UR);B-3,Out,"Generic Out",3,12_,"1B & 2B",1,0,3,0,5,0,,2,1,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,3,12_,"1B & 2B",1,0,0,1,2,0,2,0,1,ANA201305050,BAL,ANA,1,R,20130505,8,4,8,11
+trumm001,Mark,Trumbo,20,20,S8/L.2-H(UR);1-2,1B,Single,3,12_,"1B & 2B",0,1,1,2,5,0,,0,0,ANA201304230,TEX,ANA,2,R,20130423,4,5,8,10
+trumm001,Mark,Trumbo,2,2,53/G.3-H,Out,"Generic Out",4,__3,"3B only",1,1,0,0,0,4,53,2,10,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+trumm001,Mark,Trumbo,14,14,W,NIBB,"Nonintentional Walk",4,__3,"3B only",0,0,1,0,0,3,,2,1,ANA201304140,HOU,ANA,2,R,20130414,1,4,7,9
+trumm001,Mark,Trumbo,14,14,W,NIBB,"Nonintentional Walk",4,__3,"3B only",0,0,1,0,0,3,,0,1,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+trumm001,Mark,Trumbo,3,3,K,K,Strikeout,6,_23,"2B & 3B",1,0,0,0,2,3,2,2,5,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+trumm001,Mark,Trumbo,18,18,E6/TH1/G.3-H,ROE,Error,6,_23,"2B & 3B",0,1,1,0,2,4,,1,4,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+trumm001,Mark,Trumbo,2,2,54(1)3/GDP,Out,"Generic Out",7,123,Loaded,2,0,0,0,2,3,43,0,3,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+trumm001,Mark,Trumbo,2,2,53/G,Out,"Generic Out",7,123,Loaded,1,0,0,1,2,3,53,2,4,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+trumm001,Mark,Trumbo,20,20,S9/L.3-H;2-3;1-2,1B,Single,7,123,Loaded,0,1,1,2,3,4,,1,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+snydc002,Chris,Snyder,2,2,2/P2F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,2,4,2,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+snydc002,Chris,Snyder,2,2,53/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,53,0,4,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+snydc002,Chris,Snyder,3,3,K,K,Strikeout,3,12_,"1B & 2B",1,0,0,1,2,0,2,3,0,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+snydc002,Chris,Snyder,14,14,W.2-3;1-2,NIBB,"Nonintentional Walk",3,12_,"1B & 2B",0,0,1,2,3,0,,2,0,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+snydc002,Chris,Snyder,2,2,4/L-,Out,"Generic Out",6,_23,"2B & 3B",1,0,0,0,2,3,4,2,0,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+younc004,Chris,Young,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,0,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+younc004,Chris,Young,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,4,0,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+younc004,Chris,Young,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,1,1,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+younc004,Chris,Young,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,6,1,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+younc004,Chris,Young,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,2,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+younc004,Chris,Young,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+younc004,Chris,Young,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,5,2,ANA201304100,OAK,ANA,2,R,20130410,11,5,16,14
+younc004,Chris,Young,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,4,5,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+younc004,Chris,Young,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,1,1,ANA201304110,OAK,ANA,0,R,20130411,8,1,16,5
+younc004,Chris,Young,2,2,9/F,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,9,0,0,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+younc004,Chris,Young,9,9,WP.2-3,WP,"Wild Pitch",2,_2_,"2B only",0,0,0,0,3,0,,9,5,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+younc004,Chris,Young,2,2,5/P,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,5,11,5,ANA201304100,OAK,ANA,2,R,20130410,11,5,16,14
+younc004,Chris,Young,21,21,D7/L.2-H;1-H,2B,Double,3,12_,"1B & 2B",0,2,2,4,4,0,,3,1,ANA201304110,OAK,ANA,2,R,20130411,8,1,16,5
+younc004,Chris,Young,2,2,63/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,63,9,5,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+younc004,Chris,Young,2,2,53/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,53,4,1,ANA201304100,OAK,ANA,2,R,20130410,11,5,16,14
+younc004,Chris,Young,3,3,K,K,Strikeout,5,1_3,"1B & 3B",1,0,0,1,0,3,2,11,4,ANA201304100,OAK,ANA,2,R,20130410,11,5,16,14
+younc004,Chris,Young,3,3,K,K,Strikeout,7,123,Loaded,1,0,0,1,2,3,2,7,4,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+ankir001,Rick,Ankiel,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,5,0,ANA201304120,HOU,ANA,0,L,20130412,5,0,10,4
+ankir001,Rick,Ankiel,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,4,ANA201304140,HOU,ANA,1,L,20130414,1,4,7,9
+ankir001,Rick,Ankiel,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,5,0,ANA201304120,HOU,ANA,1,L,20130412,5,0,10,4
+ankir001,Rick,Ankiel,21,21,D9/L+.3-H;1-3,2B,Double,5,1_3,"1B & 3B",0,1,2,3,0,4,,4,0,ANA201304120,HOU,ANA,1,L,20130412,5,0,10,4
+ankir001,Rick,Ankiel,20,20,S7/G.3-H;2-H;1-3,1B,Single,7,123,Loaded,0,2,1,3,4,4,,1,0,ANA201304120,HOU,ANA,2,L,20130412,5,0,10,4
+infao001,Omar,Infante,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,9,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+infao001,Omar,Infante,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,9,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+infao001,Omar,Infante,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,1,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+infao001,Omar,Infante,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+infao001,Omar,Infante,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+infao001,Omar,Infante,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+infao001,Omar,Infante,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,3,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+infao001,Omar,Infante,20,20,S7/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,0,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+infao001,Omar,Infante,2,2,5/LDP.2X2(54),Out,"Generic Out",3,12_,"1B & 2B",2,0,0,1,0,0,5,0,9,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+mclon001,Nate,McLouth,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,0,ANA201305020,BAL,ANA,0,L,20130502,5,1,10,4
+mclon001,Nate,McLouth,2,2,31/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,31,1,0,ANA201305020,BAL,ANA,1,L,20130502,5,1,10,4
+mclon001,Nate,McLouth,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,0,ANA201305040,BAL,ANA,0,L,20130504,5,4,12,6
+mclon001,Nate,McLouth,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,1,3,ANA201305050,BAL,ANA,0,L,20130505,8,4,8,11
+mclon001,Nate,McLouth,2,2,8/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,5,4,ANA201305050,BAL,ANA,2,L,20130505,8,4,8,11
+mclon001,Nate,McLouth,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,8,4,ANA201305050,BAL,ANA,0,L,20130505,8,4,8,11
+mclon001,Nate,McLouth,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,4,ANA201305040,BAL,ANA,0,L,20130504,5,4,12,6
+mclon001,Nate,McLouth,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,3,4,ANA201305050,BAL,ANA,1,L,20130505,8,4,8,11
+mclon001,Nate,McLouth,21,21,D7/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,0,ANA201305050,BAL,ANA,0,L,20130505,8,4,8,11
+mclon001,Nate,McLouth,20,20,S9/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,0,ANA201305020,BAL,ANA,1,L,20130502,5,1,10,4
+mclon001,Nate,McLouth,23,23,HR/8/F.1-H,HR,Homerun,1,1__,"1B only",0,2,4,4,0,0,,3,0,ANA201305020,BAL,ANA,1,L,20130502,5,1,10,4
+mclon001,Nate,McLouth,2,2,43/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,43,2,0,ANA201305020,BAL,ANA,1,L,20130502,5,1,10,4
+mclon001,Nate,McLouth,2,2,9/F,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,9,3,0,ANA201305040,BAL,ANA,1,L,20130504,5,4,12,6
+mclon001,Nate,McLouth,2,2,7/F,Out,"Generic Out",6,_23,"2B & 3B",1,0,0,0,2,3,7,2,0,ANA201305040,BAL,ANA,2,L,20130504,5,4,12,6
+mclon001,Nate,McLouth,2,2,46(1)3/GDP,Out,"Generic Out",7,123,Loaded,2,0,0,0,2,3,63,2,0,ANA201305040,BAL,ANA,1,L,20130504,5,4,12,6
+jonea003,Adam,Jones,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,0,ANA201305020,BAL,ANA,0,R,20130502,5,1,10,4
+jonea003,Adam,Jones,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+jonea003,Adam,Jones,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,1,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+jonea003,Adam,Jones,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,5,4,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+jonea003,Adam,Jones,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,0,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+jonea003,Adam,Jones,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,1,3,ANA201305050,BAL,ANA,0,R,20130505,8,4,8,11
+jonea003,Adam,Jones,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,0,ANA201305020,BAL,ANA,1,R,20130502,5,1,10,4
+jonea003,Adam,Jones,20,20,S9/F-,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,0,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+jonea003,Adam,Jones,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,4,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+jonea003,Adam,Jones,21,21,D8/L+,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,3,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+jonea003,Adam,Jones,2,2,46(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,63,3,0,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+jonea003,Adam,Jones,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,8,4,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+jonea003,Adam,Jones,6,6,CS2(24),CS,"Caught Stealing",1,1__,"1B only",1,0,0,0,0,0,,5,4,ANA201305050,BAL,ANA,1,R,20130505,8,4,8,11
+jonea003,Adam,Jones,3,3,K23,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,23,0,4,ANA201305030,BAL,ANA,1,R,20130503,0,4,3,8
+jonea003,Adam,Jones,2,2,43/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,43,5,4,ANA201305050,BAL,ANA,1,R,20130505,8,4,8,11
+jonea003,Adam,Jones,14,14,W,NIBB,"Nonintentional Walk",4,__3,"3B only",0,0,1,0,0,3,,2,0,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+jonea003,Adam,Jones,21,21,D8/F.3-H,2B,Double,4,__3,"3B only",0,1,2,0,0,4,,0,0,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+jonea003,Adam,Jones,2,2,63/G,Out,"Generic Out",6,_23,"2B & 3B",1,0,0,0,2,3,63,1,0,ANA201305020,BAL,ANA,2,R,20130502,5,1,10,4
+jonea003,Adam,Jones,2,2,63/G,Out,"Generic Out",6,_23,"2B & 3B",1,0,0,0,2,3,63,3,0,ANA201305020,BAL,ANA,2,R,20130502,5,1,10,4
+markn001,Nick,Markakis,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,0,ANA201305020,BAL,ANA,0,L,20130502,5,1,10,4
+markn001,Nick,Markakis,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,5,0,ANA201305020,BAL,ANA,2,L,20130502,5,1,10,4
+markn001,Nick,Markakis,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,0,ANA201305030,BAL,ANA,2,L,20130503,0,4,3,8
+markn001,Nick,Markakis,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,1,ANA201305030,BAL,ANA,1,L,20130503,0,4,3,8
+markn001,Nick,Markakis,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,3,ANA201305030,BAL,ANA,2,L,20130503,0,4,3,8
+markn001,Nick,Markakis,2,2,2/P2F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,2,1,0,ANA201305040,BAL,ANA,1,L,20130504,5,4,12,6
+markn001,Nick,Markakis,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,2,0,ANA201305040,BAL,ANA,1,L,20130504,5,4,12,6
+markn001,Nick,Markakis,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,1,3,ANA201305050,BAL,ANA,2,L,20130505,8,4,8,11
+markn001,Nick,Markakis,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,4,ANA201305040,BAL,ANA,2,L,20130504,5,4,12,6
+markn001,Nick,Markakis,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,5,4,ANA201305050,BAL,ANA,1,L,20130505,8,4,8,11
+markn001,Nick,Markakis,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,8,4,ANA201305050,BAL,ANA,2,L,20130505,8,4,8,11
+markn001,Nick,Markakis,20,20,S6/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,0,ANA201305040,BAL,ANA,0,L,20130504,5,4,12,6
+markn001,Nick,Markakis,21,21,D8/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,4,ANA201305030,BAL,ANA,1,L,20130503,0,4,3,8
+markn001,Nick,Markakis,2,2,16(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,63,0,0,ANA201305020,BAL,ANA,1,L,20130502,5,1,10,4
+markn001,Nick,Markakis,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,2,0,ANA201305040,BAL,ANA,0,L,20130504,5,4,12,6
+markn001,Nick,Markakis,8,8,PO1(E1).1-2,PK,Pickoff,1,1__,"1B only",0,0,0,2,0,0,,5,4,ANA201305050,BAL,ANA,0,L,20130505,8,4,8,11
+markn001,Nick,Markakis,2,2,3/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,3,2,0,ANA201305040,BAL,ANA,0,L,20130504,5,4,12,6
+markn001,Nick,Markakis,2,2,43/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,43,0,0,ANA201305050,BAL,ANA,1,L,20130505,8,4,8,11
+markn001,Nick,Markakis,2,2,43/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,43,5,4,ANA201305050,BAL,ANA,0,L,20130505,8,4,8,11
+markn001,Nick,Markakis,2,2,3/G.2-3;1-2,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,2,3,0,3,1,0,ANA201305020,BAL,ANA,1,L,20130502,5,1,10,4
+markn001,Nick,Markakis,21,21,D9/G.3-H(UR);1-3,2B,Double,5,1_3,"1B & 3B",0,1,2,3,0,5,,2,0,ANA201305020,BAL,ANA,2,L,20130502,5,1,10,4
+reimn001,Nolan,Reimold,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,1,0,ANA201305020,BAL,ANA,0,R,20130502,5,1,10,4
+reimn001,Nolan,Reimold,2,2,9/F+,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+reimn001,Nolan,Reimold,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,3,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+reimn001,Nolan,Reimold,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,4,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+reimn001,Nolan,Reimold,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,1,0,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+reimn001,Nolan,Reimold,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,5,4,ANA201305050,BAL,ANA,1,R,20130505,8,4,8,11
+reimn001,Nolan,Reimold,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,1,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+reimn001,Nolan,Reimold,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,4,ANA201305050,BAL,ANA,0,R,20130505,8,4,8,11
+reimn001,Nolan,Reimold,18,18,E5/TH1/G-.B-2,ROE,Error,0,___,Empty,0,0,2,0,0,0,,2,0,ANA201305020,BAL,ANA,1,R,20130502,5,1,10,4
+reimn001,Nolan,Reimold,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305020,BAL,ANA,1,R,20130502,5,1,10,4
+reimn001,Nolan,Reimold,20,20,S4/G+,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,0,ANA201305020,BAL,ANA,1,R,20130502,5,1,10,4
+reimn001,Nolan,Reimold,23,23,HR/7/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,3,0,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+reimn001,Nolan,Reimold,2,2,46(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,4,4,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+reimn001,Nolan,Reimold,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,1,3,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+reimn001,Nolan,Reimold,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,2,0,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+reimn001,Nolan,Reimold,3,3,K,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,2,2,0,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+reimn001,Nolan,Reimold,2,2,6/L,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,6,8,4,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+reimn001,Nolan,Reimold,4,4,SB2,SB,"Stolen Base",5,1_3,"1B & 3B",0,0,0,2,0,3,,2,0,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+reimn001,Nolan,Reimold,2,2,7/SF/F.3-H,Out,"Generic Out",6,_23,"2B & 3B",1,1,0,0,2,4,7,2,0,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+tejam001,Miguel,Tejada,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,0,ANA201305140,KCA,ANA,1,R,20130514,2,6,6,12
+tejam001,Miguel,Tejada,20,20,S8/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,2,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+tejam001,Miguel,Tejada,2,2,64(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,2,4,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+wietm001,Matt,Wieters,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,0,1,ANA201305030,BAL,ANA,1,B,20130503,0,4,3,8
+wietm001,Matt,Wieters,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,5,4,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+wietm001,Matt,Wieters,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,0,ANA201305020,BAL,ANA,1,B,20130502,5,1,10,4
+wietm001,Matt,Wieters,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,3,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+wietm001,Matt,Wieters,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305030,BAL,ANA,2,B,20130503,0,4,3,8
+wietm001,Matt,Wieters,20,20,S9/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305020,BAL,ANA,2,B,20130502,5,1,10,4
+wietm001,Matt,Wieters,2,2,16(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,1,0,ANA201305020,BAL,ANA,0,B,20130502,5,1,10,4
+wietm001,Matt,Wieters,20,20,S8/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,6,4,ANA201305050,BAL,ANA,2,B,20130505,8,4,8,11
+wietm001,Matt,Wieters,2,2,31/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,31,2,0,ANA201305020,BAL,ANA,1,B,20130502,5,1,10,4
+wietm001,Matt,Wieters,2,2,3/L,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,3,1,3,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+wietm001,Matt,Wieters,2,2,31/G,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,31,5,4,ANA201305040,BAL,ANA,2,B,20130504,5,4,12,6
+wietm001,Matt,Wieters,19,19,FC5/G.3XH(525),FC,"Fielder Choice",4,__3,"3B only",1,0,1,0,0,0,,0,3,ANA201305030,BAL,ANA,1,B,20130503,0,4,3,8
+belta001,Adrian,Beltre,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,6,6,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+belta001,Adrian,Beltre,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,11,0,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+belta001,Adrian,Beltre,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+belta001,Adrian,Beltre,20,20,S7/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,2,ANA201304230,TEX,ANA,2,R,20130423,4,5,8,10
+belta001,Adrian,Beltre,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,4,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+belta001,Adrian,Beltre,21,21,D57/G,2B,Double,0,___,Empty,0,0,2,0,0,0,,2,3,ANA201304220,TEX,ANA,2,R,20130422,7,6,15,9
+belta001,Adrian,Beltre,2,2,9/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,1,0,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+belta001,Adrian,Beltre,2,2,63/G,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,63,0,0,ANA201304240,TEX,ANA,2,R,20130424,11,3,11,9
+belta001,Adrian,Beltre,2,2,9/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,11,0,ANA201304240,TEX,ANA,1,R,20130424,11,3,11,9
+belta001,Adrian,Beltre,20,20,S9/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,2,0,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+belta001,Adrian,Beltre,2,2,8/F,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,8,0,0,ANA201304230,TEX,ANA,2,R,20130423,4,5,8,10
+belta001,Adrian,Beltre,9,9,WP.2-3,WP,"Wild Pitch",2,_2_,"2B only",0,0,0,0,3,0,,4,4,ANA201304230,TEX,ANA,2,R,20130423,4,5,8,10
+belta001,Adrian,Beltre,2,2,43/G-.2-3;1-2,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,2,3,0,43,0,4,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+belta001,Adrian,Beltre,14,14,W.2-3;1-2,NIBB,"Nonintentional Walk",3,12_,"1B & 2B",0,0,1,2,3,0,,3,6,ANA201304220,TEX,ANA,0,R,20130422,7,6,15,9
+belta001,Adrian,Beltre,2,2,7!/L,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,7,4,4,ANA201304230,TEX,ANA,2,R,20130423,4,5,8,10
+belta001,Adrian,Beltre,14,14,W+WP.3-H(NR);1-2,NIBB,"Nonintentional Walk",5,1_3,"1B & 3B",0,0,1,2,0,4,,5,0,ANA201304240,TEX,ANA,2,R,20130424,11,3,11,9
+lowrj001,Jed,Lowrie,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,4,0,ANA201304090,OAK,ANA,1,B,20130409,9,5,12,13
+lowrj001,Jed,Lowrie,2,2,9!/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,4,2,ANA201304090,OAK,ANA,1,B,20130409,9,5,12,13
+lowrj001,Jed,Lowrie,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,4,2,ANA201304100,OAK,ANA,0,B,20130410,11,5,16,14
+lowrj001,Jed,Lowrie,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201304110,OAK,ANA,2,B,20130411,8,1,16,5
+lowrj001,Jed,Lowrie,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304090,OAK,ANA,2,B,20130409,9,5,12,13
+lowrj001,Jed,Lowrie,21,21,D8/F,2B,Double,0,___,Empty,0,0,2,0,0,0,,6,1,ANA201304110,OAK,ANA,2,B,20130411,8,1,16,5
+lowrj001,Jed,Lowrie,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,4,5,ANA201304090,OAK,ANA,1,B,20130409,9,5,12,13
+lowrj001,Jed,Lowrie,2,2,7/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,10,4,ANA201304100,OAK,ANA,1,B,20130410,11,5,16,14
+lowrj001,Jed,Lowrie,20,20,S7/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,2,1,ANA201304100,OAK,ANA,1,B,20130410,11,5,16,14
+lowrj001,Jed,Lowrie,3,3,K,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,2,5,1,ANA201304110,OAK,ANA,2,B,20130411,8,1,16,5
+lowrj001,Jed,Lowrie,20,20,S7/G.2-H,1B,Single,2,_2_,"2B only",0,1,1,0,4,0,,0,0,ANA201304110,OAK,ANA,2,B,20130411,8,1,16,5
+lowrj001,Jed,Lowrie,2,2,64(1)3/GDP.2-3,Out,"Generic Out",3,12_,"1B & 2B",2,0,0,0,3,0,43,1,1,ANA201304110,OAK,ANA,0,B,20130411,8,1,16,5
+lowrj001,Jed,Lowrie,2,2,53/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,53,9,5,ANA201304090,OAK,ANA,2,B,20130409,9,5,12,13
+lowrj001,Jed,Lowrie,2,2,43/G.3-H,Out,"Generic Out",4,__3,"3B only",1,1,0,0,0,4,43,0,0,ANA201304100,OAK,ANA,1,B,20130410,11,5,16,14
+lowrj001,Jed,Lowrie,14,14,W.1-2,NIBB,"Nonintentional Walk",5,1_3,"1B & 3B",0,0,1,2,0,3,,5,4,ANA201304100,OAK,ANA,1,B,20130410,11,5,16,14
+martv001,Victor,Martinez,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,3,ANA201304190,DET,ANA,0,B,20130419,1,8,10,16
+martv001,Victor,Martinez,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,1,0,ANA201304210,DET,ANA,0,B,20130421,3,4,10,7
+martv001,Victor,Martinez,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,3,3,ANA201304210,DET,ANA,1,B,20130421,3,4,10,7
+martv001,Victor,Martinez,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,1,B,20130421,3,4,10,7
+martv001,Victor,Martinez,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,1,ANA201304190,DET,ANA,0,B,20130419,1,8,10,16
+martv001,Victor,Martinez,20,20,S7/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304190,DET,ANA,0,B,20130419,1,8,10,16
+martv001,Victor,Martinez,2,2,4!3/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,43,0,9,ANA201304200,DET,ANA,0,B,20130420,0,10,4,14
+martv001,Victor,Martinez,2,2,9/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,0,10,ANA201304200,DET,ANA,2,B,20130420,0,10,4,14
+martv001,Victor,Martinez,2,2,7/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,3,3,ANA201304210,DET,ANA,1,B,20130421,3,4,10,7
+martv001,Victor,Martinez,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,0,9,ANA201304200,DET,ANA,2,B,20130420,0,10,4,14
+martv001,Victor,Martinez,3,3,K,K,Strikeout,3,12_,"1B & 2B",1,0,0,1,2,0,2,0,2,ANA201304190,DET,ANA,2,B,20130419,1,8,10,16
+martv001,Victor,Martinez,3,3,K,K,Strikeout,4,__3,"3B only",1,0,0,0,0,3,2,0,9,ANA201304200,DET,ANA,1,B,20130420,0,10,4,14
+martv001,Victor,Martinez,2,2,7/F,Out,"Generic Out",7,123,Loaded,1,0,0,1,2,3,7,3,3,ANA201304210,DET,ANA,2,B,20130421,3,4,10,7
+martv001,Victor,Martinez,3,3,K,K,Strikeout,7,123,Loaded,1,0,0,1,2,3,2,0,0,ANA201304210,DET,ANA,1,B,20130421,3,4,10,7
+deaza001,Alejandro,"De Aza",2,2,31/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,31,0,0,ANA201305160,CHA,ANA,0,L,20130516,5,4,9,7
+deaza001,Alejandro,"De Aza",2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,0,ANA201305170,CHA,ANA,0,L,20130517,3,0,8,3
+deaza001,Alejandro,"De Aza",2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,2,0,ANA201305170,CHA,ANA,0,L,20130517,3,0,8,3
+deaza001,Alejandro,"De Aza",3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,5,4,ANA201305160,CHA,ANA,0,L,20130516,5,4,9,7
+deaza001,Alejandro,"De Aza",14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,1,0,ANA201305170,CHA,ANA,2,L,20130517,3,0,8,3
+deaza001,Alejandro,"De Aza",20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305160,CHA,ANA,0,L,20130516,5,4,9,7
+deaza001,Alejandro,"De Aza",20,20,S7/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,4,ANA201305160,CHA,ANA,0,L,20130516,5,4,9,7
+deaza001,Alejandro,"De Aza",2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,1,0,ANA201305170,CHA,ANA,2,L,20130517,3,0,8,3
+deaza001,Alejandro,"De Aza",3,3,K23,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,23,2,2,ANA201305160,CHA,ANA,2,L,20130516,5,4,9,7
+flowt001,Tyler,Flowers,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+flowt001,Tyler,Flowers,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+flowt001,Tyler,Flowers,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+flowt001,Tyler,Flowers,10,10,PB.1-2,PB,"Passed Ball",1,1__,"1B only",0,0,0,2,0,0,,2,2,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+flowt001,Tyler,Flowers,2,2,5/L+,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,5,2,2,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+flowt001,Tyler,Flowers,3,3,K,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,2,2,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+flowt001,Tyler,Flowers,3,3,K,K,Strikeout,6,_23,"2B & 3B",1,0,0,0,2,3,2,2,4,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+flowt001,Tyler,Flowers,3,3,K,K,Strikeout,7,123,Loaded,1,0,0,1,2,3,2,5,4,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+konep001,Paul,Konerko,2,2,1/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,1,1,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+konep001,Paul,Konerko,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,2,0,ANA201305170,CHA,ANA,0,R,20130517,3,0,8,3
+konep001,Paul,Konerko,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+konep001,Paul,Konerko,20,20,S6/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,4,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+konep001,Paul,Konerko,2,2,13/G-.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,13,4,4,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+konep001,Paul,Konerko,2,2,5!4(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,43,1,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+konep001,Paul,Konerko,20,20,S9/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,1,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+konep001,Paul,Konerko,20,20,S8/L-.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,0,0,ANA201305180,CHA,ANA,2,R,20130518,9,12,17,12
+konep001,Paul,Konerko,2,2,63/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,63,1,0,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+konep001,Paul,Konerko,3,3,K,K,Strikeout,3,12_,"1B & 2B",1,0,0,1,2,0,2,0,0,ANA201305180,CHA,ANA,2,R,20130518,9,12,17,12
+piera001,A.J.,Pierzynski,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,4,4,ANA201304230,TEX,ANA,1,L,20130423,4,5,8,10
+piera001,A.J.,Pierzynski,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201304240,TEX,ANA,1,L,20130424,11,3,11,9
+piera001,A.J.,Pierzynski,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,11,3,ANA201304240,TEX,ANA,0,L,20130424,11,3,11,9
+piera001,A.J.,Pierzynski,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,9,0,ANA201304240,TEX,ANA,2,L,20130424,11,3,11,9
+piera001,A.J.,Pierzynski,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,4,ANA201304230,TEX,ANA,1,L,20130423,4,5,8,10
+piera001,A.J.,Pierzynski,23,23,HR/89/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,6,6,ANA201304220,TEX,ANA,2,L,20130422,7,6,15,9
+piera001,A.J.,Pierzynski,2,2,43/G,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,43,1,0,ANA201304220,TEX,ANA,2,L,20130422,7,6,15,9
+piera001,A.J.,Pierzynski,2,2,36(1)1/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,61,0,2,ANA201304230,TEX,ANA,0,L,20130423,4,5,8,10
+piera001,A.J.,Pierzynski,2,2,5!/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,5,11,0,ANA201304240,TEX,ANA,1,L,20130424,11,3,11,9
+piera001,A.J.,Pierzynski,2,2,63/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,63,2,3,ANA201304220,TEX,ANA,2,L,20130422,7,6,15,9
+piera001,A.J.,Pierzynski,2,2,7/F.2-3,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,3,0,7,2,0,ANA201304220,TEX,ANA,1,L,20130422,7,6,15,9
+piera001,A.J.,Pierzynski,2,2,43/G,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,43,0,2,ANA201304230,TEX,ANA,2,L,20130423,4,5,8,10
+piera001,A.J.,Pierzynski,19,19,FC3/G.1-2;B-1,FC,"Fielder Choice",5,1_3,"1B & 3B",0,0,1,2,0,3,,3,4,ANA201304230,TEX,ANA,0,L,20130423,4,5,8,10
+piera001,A.J.,Pierzynski,20,20,S9/L-.3-H;1-2,1B,Single,5,1_3,"1B & 3B",0,1,1,2,0,4,,0,0,ANA201304240,TEX,ANA,0,L,20130424,11,3,11,9
+piera001,A.J.,Pierzynski,20,20,S7/L.3-H;2-3;1-2,1B,Single,7,123,Loaded,0,1,1,2,3,4,,3,6,ANA201304220,TEX,ANA,0,L,20130422,7,6,15,9
+ramia003,Alexei,Ramirez,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,0,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+ramia003,Alexei,Ramirez,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,2,2,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+ramia003,Alexei,Ramirez,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,5,4,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+ramia003,Alexei,Ramirez,2,2,1/L-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,1,0,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+ramia003,Alexei,Ramirez,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,1,0,ANA201305170,CHA,ANA,0,R,20130517,3,0,8,3
+ramia003,Alexei,Ramirez,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,1,0,ANA201305170,CHA,ANA,0,R,20130517,3,0,8,3
+ramia003,Alexei,Ramirez,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,2,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+ramia003,Alexei,Ramirez,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305180,CHA,ANA,1,R,20130518,9,12,17,12
+ramia003,Alexei,Ramirez,20,20,S5/BG,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305180,CHA,ANA,0,R,20130518,9,12,17,12
+ramia003,Alexei,Ramirez,2,2,6/LDP.1X1(63),Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,6,0,0,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+ramia003,Alexei,Ramirez,8,8,POCS2(134),PK,Pickoff,1,1__,"1B only",1,0,0,0,0,0,,1,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+ramia003,Alexei,Ramirez,20,20,S8/L.1-3;B-2(TH3),1B,Single,1,1__,"1B only",0,0,2,3,0,0,,2,4,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+riosa002,Alex,Rios,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+riosa002,Alex,Rios,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,2,2,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+riosa002,Alex,Rios,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,5,4,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+riosa002,Alex,Rios,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,2,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+riosa002,Alex,Rios,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,1,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+riosa002,Alex,Rios,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+riosa002,Alex,Rios,23,23,HR/7/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,0,0,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+riosa002,Alex,Rios,23,23,HR/78/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,0,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+riosa002,Alex,Rios,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,0,0,ANA201305180,CHA,ANA,0,R,20130518,9,12,17,12
+riosa002,Alex,Rios,20,20,S9/F-.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,0,ANA201305180,CHA,ANA,1,R,20130518,9,12,17,12
+riosa002,Alex,Rios,3,3,K23.3-H;2-3,K,Strikeout,6,_23,"2B & 3B",1,0,0,0,3,4,23,2,4,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+vicid001,Dayan,Viciedo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,0,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+vicid001,Dayan,Viciedo,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,1,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+vicid001,Dayan,Viciedo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305180,CHA,ANA,0,R,20130518,9,12,17,12
+vicid001,Dayan,Viciedo,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+vicid001,Dayan,Viciedo,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+vicid001,Dayan,Viciedo,20,20,S5/G-,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305180,CHA,ANA,1,R,20130518,9,12,17,12
+vicid001,Dayan,Viciedo,2,2,9/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,2,4,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+vicid001,Dayan,Viciedo,2,2,43/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,43,1,2,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+vicid001,Dayan,Viciedo,2,2,43/G,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,43,1,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+vicid001,Dayan,Viciedo,14,14,W.2-3;1-2,NIBB,"Nonintentional Walk",3,12_,"1B & 2B",0,0,1,2,3,0,,4,4,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+bakej001,Jeff,Baker,18,18,E1/G.3-H;1-2,ROE,Error,5,1_3,"1B & 3B",0,1,1,2,0,4,,5,6,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+peraj001,Jhonny,Peralta,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,2,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+peraj001,Jhonny,Peralta,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,9,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+peraj001,Jhonny,Peralta,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,1,0,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,3,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,20,20,S7/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,9,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+peraj001,Jhonny,Peralta,21,21,D7/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,3,ANA201304190,DET,ANA,2,R,20130419,1,8,10,16
+peraj001,Jhonny,Peralta,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,0,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+peraj001,Jhonny,Peralta,20,20,S7/L.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,2,2,5(2)4(1)/GDP,Out,"Generic Out",3,12_,"1B & 2B",2,0,1,0,0,0,,0,1,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+peraj001,Jhonny,Peralta,2,2,53/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,53,0,9,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+iannc001,Chris,Iannetta,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,5,9,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+iannc001,Chris,Iannetta,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,4,10,ANA201304100,OAK,ANA,0,R,20130410,11,5,16,14
+iannc001,Chris,Iannetta,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,4,11,ANA201304100,OAK,ANA,0,R,20130410,11,5,16,14
+iannc001,Chris,Iannetta,2,2,7/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,1,6,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+iannc001,Chris,Iannetta,2,2,3/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,3,0,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+iannc001,Chris,Iannetta,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,9,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+iannc001,Chris,Iannetta,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,6,6,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+iannc001,Chris,Iannetta,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,4,4,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+iannc001,Chris,Iannetta,2,2,53/G-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,1,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+iannc001,Chris,Iannetta,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,2,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+iannc001,Chris,Iannetta,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,4,5,ANA201305050,BAL,ANA,0,R,20130505,8,4,8,11
+iannc001,Chris,Iannetta,2,2,6/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,6,1,7,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+iannc001,Chris,Iannetta,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,2,1,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,3,ANA201304230,TEX,ANA,1,R,20130423,4,5,8,10
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,3,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,2,4,ANA201304100,OAK,ANA,0,R,20130410,11,5,16,14
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,9,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,4,0,ANA201304230,TEX,ANA,2,R,20130423,4,5,8,10
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,9,ANA201304240,TEX,ANA,2,R,20130424,11,3,11,9
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,2,2,ANA201305160,CHA,ANA,0,R,20130516,5,4,9,7
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305180,CHA,ANA,1,R,20130518,9,12,17,12
+iannc001,Chris,Iannetta,20,20,S9/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304130,HOU,ANA,0,R,20130413,4,5,4,13
+iannc001,Chris,Iannetta,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,4,ANA201304130,HOU,ANA,0,R,20130413,4,5,4,13
+iannc001,Chris,Iannetta,20,20,S5/G-,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,0,ANA201304190,DET,ANA,2,R,20130419,1,8,10,16
+iannc001,Chris,Iannetta,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+iannc001,Chris,Iannetta,21,21,D7/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,9,0,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+iannc001,Chris,Iannetta,21,21,D7/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,11,ANA201304240,TEX,ANA,0,R,20130424,11,3,11,9
+iannc001,Chris,Iannetta,2,2,54(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,0,4,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+iannc001,Chris,Iannetta,2,2,9/F9LF,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,0,0,ANA201304110,OAK,ANA,2,R,20130411,8,1,16,5
+iannc001,Chris,Iannetta,2,2,7/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,3,0,ANA201305030,BAL,ANA,0,R,20130503,0,4,3,8
+iannc001,Chris,Iannetta,2,2,36(1)1/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,61,4,8,ANA201305050,BAL,ANA,0,R,20130505,8,4,8,11
+iannc001,Chris,Iannetta,2,2,3/G,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,3,0,1,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,0,2,ANA201304130,HOU,ANA,0,R,20130413,4,5,4,13
+iannc001,Chris,Iannetta,3,3,K+CS2(26)/DP,K,Strikeout,1,1__,"1B only",2,0,0,0,0,0,2,2,0,ANA201304230,TEX,ANA,0,R,20130423,4,5,8,10
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,3,11,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,4,11,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,0,2,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+iannc001,Chris,Iannetta,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,1,1,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+iannc001,Chris,Iannetta,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,3,8,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+iannc001,Chris,Iannetta,21,21,D9/L.1-3,2B,Double,1,1__,"1B only",0,0,2,3,0,0,,3,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+iannc001,Chris,Iannetta,2,2,43/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,43,3,11,ANA201304240,TEX,ANA,1,R,20130424,11,3,11,9
+iannc001,Chris,Iannetta,2,2,9/F,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,9,4,2,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,2,2,4,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+iannc001,Chris,Iannetta,9,9,WP.2-3,WP,"Wild Pitch",2,_2_,"2B only",0,0,0,0,3,0,,5,9,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+iannc001,Chris,Iannetta,2,2,5(2)/FO/G.1-2,Out,"Generic Out",3,12_,"1B & 2B",1,0,1,2,0,0,,2,4,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+iannc001,Chris,Iannetta,2,2,4(1)/FO/G.2-3,Out,"Generic Out",3,12_,"1B & 2B",1,0,1,0,3,0,,2,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+iannc001,Chris,Iannetta,2,2,54(1)3/GDP.2-3,Out,"Generic Out",3,12_,"1B & 2B",2,0,0,0,3,0,43,4,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,3,12_,"1B & 2B",1,0,0,1,2,0,2,0,2,ANA201304220,TEX,ANA,2,R,20130422,7,6,15,9
+iannc001,Chris,Iannetta,20,20,S9/L.2-H;1-3,1B,Single,3,12_,"1B & 2B",0,1,1,3,4,0,,1,8,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+iannc001,Chris,Iannetta,21,21,D7/L.2-H;1-3,2B,Double,3,12_,"1B & 2B",0,1,2,3,4,0,,3,3,ANA201304220,TEX,ANA,2,R,20130422,7,6,15,9
+iannc001,Chris,Iannetta,2,2,7!/SF/L.3-H,Out,"Generic Out",4,__3,"3B only",1,1,0,0,0,4,7,2,2,ANA201304220,TEX,ANA,1,R,20130422,7,6,15,9
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",4,__3,"3B only",0,0,1,0,0,3,,5,9,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+iannc001,Chris,Iannetta,20,20,S8/L.3-H,1B,Single,4,__3,"3B only",0,1,1,0,0,4,,0,3,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+iannc001,Chris,Iannetta,2,2,9/F,Out,"Generic Out",5,1_3,"1B & 3B",1,0,0,1,0,3,9,5,11,ANA201304100,OAK,ANA,1,R,20130410,11,5,16,14
+iannc001,Chris,Iannetta,2,2,64(1)3/GDP,Out,"Generic Out",5,1_3,"1B & 3B",2,0,0,0,0,3,43,4,2,ANA201305140,KCA,ANA,1,R,20130514,2,6,6,12
+iannc001,Chris,Iannetta,2,2,43/G.3-H;1-2,Out,"Generic Out",5,1_3,"1B & 3B",1,1,0,2,0,4,43,5,2,ANA201305140,KCA,ANA,1,R,20130514,2,6,6,12
+iannc001,Chris,Iannetta,2,2,9/F-,Out,"Generic Out",5,1_3,"1B & 3B",1,0,0,1,0,3,9,4,9,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+iannc001,Chris,Iannetta,14,14,W.1-2,NIBB,"Nonintentional Walk",5,1_3,"1B & 3B",0,0,1,2,0,3,,3,1,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+iannc001,Chris,Iannetta,2,2,8/SF/FDP.3-H(UR);2X3(864),Out,"Generic Out",6,_23,"2B & 3B",2,1,0,0,0,5,8,2,4,ANA201304130,HOU,ANA,1,R,20130413,4,5,4,13
+iannc001,Chris,Iannetta,3,3,K,K,Strikeout,6,_23,"2B & 3B",1,0,0,0,2,3,2,1,1,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+iannc001,Chris,Iannetta,14,14,W,NIBB,"Nonintentional Walk",6,_23,"2B & 3B",0,0,1,0,2,3,,3,1,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+smits002,Seth,Smith,2,2,4!3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,11,4,ANA201304100,OAK,ANA,0,L,20130410,11,5,16,14
+smits002,Seth,Smith,21,21,D9/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,1,1,ANA201304100,OAK,ANA,2,L,20130410,11,5,16,14
+smits002,Seth,Smith,21,21,D7/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,4,2,ANA201304100,OAK,ANA,0,L,20130410,11,5,16,14
+smits002,Seth,Smith,21,21,D9/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,3,1,ANA201304110,OAK,ANA,1,L,20130411,8,1,16,5
+smits002,Seth,Smith,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,5,2,ANA201304100,OAK,ANA,2,L,20130410,11,5,16,14
+smits002,Seth,Smith,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,1,0,ANA201304110,OAK,ANA,2,L,20130411,8,1,16,5
+smits002,Seth,Smith,20,20,S9/G.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,6,1,ANA201304110,OAK,ANA,2,L,20130411,8,1,16,5
+smits002,Seth,Smith,15,15,IW,IBB,"Intentional Walk",2,_2_,"2B only",0,0,1,0,2,0,,5,2,ANA201304100,OAK,ANA,2,L,20130410,11,5,16,14
+smits002,Seth,Smith,20,20,S4/G.2-3,1B,Single,2,_2_,"2B only",0,0,1,0,3,0,,1,0,ANA201304110,OAK,ANA,2,L,20130411,8,1,16,5
+smits002,Seth,Smith,21,21,D9/L.3-H;1-H(E4)(UR)(NR),2B,Double,5,1_3,"1B & 3B",0,1,2,5,0,4,,6,1,ANA201304110,OAK,ANA,1,L,20130411,8,1,16,5
+smits002,Seth,Smith,2,2,46(1)3/GDP,Out,"Generic Out",7,123,Loaded,2,0,0,0,2,3,63,0,0,ANA201304110,OAK,ANA,1,L,20130411,8,1,16,5
+smits002,Seth,Smith,20,20,S8/G.3-H;2-H;1-2,1B,Single,7,123,Loaded,0,2,1,2,4,4,,7,4,ANA201304100,OAK,ANA,2,L,20130410,11,5,16,14
+avila001,Alex,Avila,2,2,7!/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,2,ANA201304190,DET,ANA,2,L,20130419,1,8,10,16
+avila001,Alex,Avila,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,9,ANA201304200,DET,ANA,2,L,20130420,0,10,4,14
+avila001,Alex,Avila,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,9,ANA201304200,DET,ANA,0,L,20130420,0,10,4,14
+avila001,Alex,Avila,20,20,S9/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,0,ANA201304190,DET,ANA,2,L,20130419,1,8,10,16
+avila001,Alex,Avila,20,20,S8/G.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,0,1,ANA201304190,DET,ANA,2,L,20130419,1,8,10,16
+avila001,Alex,Avila,20,20,S9/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,9,ANA201304200,DET,ANA,0,L,20130420,0,10,4,14
+avila001,Alex,Avila,2,2,3/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,3,0,3,ANA201304190,DET,ANA,2,L,20130419,1,8,10,16
+cabrm001,Miguel,Cabrera,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+cabrm001,Miguel,Cabrera,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,9,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+cabrm001,Miguel,Cabrera,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+cabrm001,Miguel,Cabrera,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,2,ANA201304190,DET,ANA,2,R,20130419,1,8,10,16
+cabrm001,Miguel,Cabrera,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+cabrm001,Miguel,Cabrera,21,21,D9/F+,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,9,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+cabrm001,Miguel,Cabrera,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,1,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+cabrm001,Miguel,Cabrera,20,20,S7/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+cabrm001,Miguel,Cabrera,20,20,S7/G.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,0,0,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+cabrm001,Miguel,Cabrera,14,14,W,NIBB,"Nonintentional Walk",2,_2_,"2B only",0,0,1,0,2,0,,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+cabrm001,Miguel,Cabrera,20,20,S8/L.2-H,1B,Single,2,_2_,"2B only",0,1,1,0,4,0,,0,8,ANA201304190,DET,ANA,2,R,20130419,1,8,10,16
+cabrm001,Miguel,Cabrera,14,14,W.2-3;1-2,NIBB,"Nonintentional Walk",3,12_,"1B & 2B",0,0,1,2,3,0,,1,0,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+cabrm001,Miguel,Cabrera,20,20,S7/L.2-3;1-2,1B,Single,3,12_,"1B & 2B",0,0,1,2,3,0,,0,2,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+cabrm001,Miguel,Cabrera,2,2,5!3/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,53,0,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+jacka001,Austin,Jackson,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+jacka001,Austin,Jackson,2,2,13/G-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,2,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+jacka001,Austin,Jackson,2,2,9/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,8,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+jacka001,Austin,Jackson,2,2,5!3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,0,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+jacka001,Austin,Jackson,2,2,9!/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+jacka001,Austin,Jackson,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,1,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+jacka001,Austin,Jackson,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,9,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+jacka001,Austin,Jackson,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,9,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+jacka001,Austin,Jackson,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+jacka001,Austin,Jackson,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+jacka001,Austin,Jackson,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+jacka001,Austin,Jackson,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,2,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+jacka001,Austin,Jackson,2,2,16(1)/FO/BG,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+jacka001,Austin,Jackson,2,2,53/G,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,53,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+jacka001,Austin,Jackson,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,0,9,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+jacka001,Austin,Jackson,11,11,BK.2-3;1-2,BK,Balk,3,12_,"1B & 2B",0,0,0,2,3,0,,0,0,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+jacka001,Austin,Jackson,19,19,FC6/G.3-H;2X3(65),FC,"Fielder Choice",6,_23,"2B & 3B",1,1,1,0,0,4,,0,0,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+kelld001,Don,Kelly,16,16,HP,HBP,"Hit By Pitch",0,___,Empty,0,0,1,0,0,0,,0,10,ANA201304200,DET,ANA,0,L,20130420,0,10,4,14
+kelld001,Don,Kelly,2,2,5!3/G-,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,53,3,3,ANA201304210,DET,ANA,2,L,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,2,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+peraj001,Jhonny,Peralta,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,9,ANA201304200,DET,ANA,1,R,20130420,0,10,4,14
+peraj001,Jhonny,Peralta,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,1,0,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,3,3,ANA201304210,DET,ANA,1,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,0,0,ANA201304210,DET,ANA,0,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,20,20,S7/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,9,ANA201304200,DET,ANA,0,R,20130420,0,10,4,14
+peraj001,Jhonny,Peralta,21,21,D7/L,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,3,ANA201304190,DET,ANA,2,R,20130419,1,8,10,16
+peraj001,Jhonny,Peralta,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,0,0,ANA201304190,DET,ANA,1,R,20130419,1,8,10,16
+peraj001,Jhonny,Peralta,20,20,S7/L.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,3,3,ANA201304210,DET,ANA,2,R,20130421,3,4,10,7
+peraj001,Jhonny,Peralta,2,2,5(2)4(1)/GDP,Out,"Generic Out",3,12_,"1B & 2B",2,0,1,0,0,0,,0,1,ANA201304190,DET,ANA,0,R,20130419,1,8,10,16
+peraj001,Jhonny,Peralta,2,2,53/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,53,0,9,ANA201304200,DET,ANA,2,R,20130420,0,10,4,14
+santr002,Ramon,Santiago,2,2,13/BG,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,2,ANA201304190,DET,ANA,0,B,20130419,1,8,10,16
+santr002,Ramon,Santiago,2,2,143/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,143,0,8,ANA201304190,DET,ANA,0,B,20130419,1,8,10,16
+santr002,Ramon,Santiago,2,2,3/L-,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,3,0,10,ANA201304200,DET,ANA,0,B,20130420,0,10,4,14
+santr002,Ramon,Santiago,3,3,K,K,Strikeout,3,12_,"1B & 2B",1,0,0,1,2,0,2,0,0,ANA201304190,DET,ANA,2,B,20130419,1,8,10,16
+santr002,Ramon,Santiago,2,2,7/F,Out,"Generic Out",5,1_3,"1B & 3B",1,0,0,1,0,3,7,0,1,ANA201304190,DET,ANA,2,B,20130419,1,8,10,16
+sizes001,Scott,Sizemore,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,4,2,ANA201304090,OAK,ANA,1,R,20130409,9,5,12,13
+sizes001,Scott,Sizemore,2,2,54(1)/FO/G,Out,"Generic Out",7,123,Loaded,1,0,1,0,2,3,,3,0,ANA201304090,OAK,ANA,2,R,20130409,9,5,12,13
+couss001,Scott,Cousins,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,3,ANA201305020,BAL,ANA,0,L,20130502,5,1,10,4
+couss001,Scott,Cousins,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,2,4,ANA201305040,BAL,ANA,0,L,20130504,5,4,12,6
+berkl001,Lance,Berkman,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,2,3,ANA201304220,TEX,ANA,1,B,20130422,7,6,15,9
+berkl001,Lance,Berkman,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,6,6,ANA201304220,TEX,ANA,0,B,20130422,7,6,15,9
+berkl001,Lance,Berkman,2,2,4/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,3,4,ANA201304230,TEX,ANA,2,B,20130423,4,5,8,10
+berkl001,Lance,Berkman,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,2,ANA201304230,TEX,ANA,1,B,20130423,4,5,8,10
+berkl001,Lance,Berkman,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,11,0,ANA201304240,TEX,ANA,1,B,20130424,11,3,11,9
+berkl001,Lance,Berkman,2,2,9/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,2,0,ANA201304220,TEX,ANA,0,B,20130422,7,6,15,9
+berkl001,Lance,Berkman,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,0,0,ANA201304240,TEX,ANA,1,B,20130424,11,3,11,9
+berkl001,Lance,Berkman,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,0,4,ANA201304230,TEX,ANA,0,B,20130423,4,5,8,10
+berkl001,Lance,Berkman,20,20,S9/F-.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,3,6,ANA201304220,TEX,ANA,0,B,20130422,7,6,15,9
+berkl001,Lance,Berkman,2,2,7/F,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,7,0,0,ANA201304230,TEX,ANA,1,B,20130423,4,5,8,10
+berkl001,Lance,Berkman,3,3,K,K,Strikeout,2,_2_,"2B only",1,0,0,0,2,0,2,4,4,ANA201304230,TEX,ANA,1,B,20130423,4,5,8,10
+berkl001,Lance,Berkman,19,19,FC5/G.2X3(5),FC,"Fielder Choice",2,_2_,"2B only",1,0,1,0,0,0,,0,0,ANA201304240,TEX,ANA,2,B,20130424,11,3,11,9
+berkl001,Lance,Berkman,23,23,HR/9/L.2-H,HR,Homerun,2,_2_,"2B only",0,2,4,0,4,0,,9,0,ANA201304240,TEX,ANA,0,B,20130424,11,3,11,9
+berkl001,Lance,Berkman,2,2,36(1)/FO/G.2-H(E1)(NR),Out,"Generic Out",3,12_,"1B & 2B",1,0,1,0,4,0,,0,0,ANA201304220,TEX,ANA,0,B,20130422,7,6,15,9
+berkl001,Lance,Berkman,20,20,S8/G.3-H;2-H;1-3,1B,Single,7,123,Loaded,0,2,1,3,4,4,,3,0,ANA201304240,TEX,ANA,2,B,20130424,11,3,11,9
+castj006,Jason,Castro,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,4,0,ANA201304120,HOU,ANA,2,L,20130412,5,0,10,4
+castj006,Jason,Castro,2,2,31/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,31,5,0,ANA201304120,HOU,ANA,2,L,20130412,5,0,10,4
+castj006,Jason,Castro,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,0,ANA201304130,HOU,ANA,2,L,20130413,4,5,4,13
+castj006,Jason,Castro,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,1,ANA201304130,HOU,ANA,1,L,20130413,4,5,4,13
+castj006,Jason,Castro,20,20,S7/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,0,ANA201304120,HOU,ANA,1,L,20130412,5,0,10,4
+castj006,Jason,Castro,2,2,7/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,5,0,ANA201304120,HOU,ANA,1,L,20130412,5,0,10,4
+castj006,Jason,Castro,2,2,43/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,43,0,0,ANA201304130,HOU,ANA,1,L,20130413,4,5,4,13
+castj006,Jason,Castro,2,2,6/P/IF,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,6,5,0,ANA201304120,HOU,ANA,0,L,20130412,5,0,10,4
+castj006,Jason,Castro,3,3,K,K,Strikeout,3,12_,"1B & 2B",1,0,0,1,2,0,2,1,2,ANA201304140,HOU,ANA,2,L,20130414,1,4,7,9
+castj006,Jason,Castro,2,2,8/L,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,8,2,0,ANA201304130,HOU,ANA,2,L,20130413,4,5,4,13
+keppj001,Jeff,Keppinger,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,0,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+keppj001,Jeff,Keppinger,2,2,43/G+,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+keppj001,Jeff,Keppinger,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,1,0,ANA201305170,CHA,ANA,0,R,20130517,3,0,8,3
+keppj001,Jeff,Keppinger,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,3,0,ANA201305170,CHA,ANA,2,R,20130517,3,0,8,3
+keppj001,Jeff,Keppinger,2,2,53/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,53,1,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+keppj001,Jeff,Keppinger,6,6,CS2(24),CS,"Caught Stealing",1,1__,"1B only",1,0,0,0,0,0,,3,0,ANA201305170,CHA,ANA,1,R,20130517,3,0,8,3
+keppj001,Jeff,Keppinger,20,20,S6/G.1-3(E6/TH);B-2,1B,Single,1,1__,"1B only",0,0,2,3,0,0,,2,4,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+keppj001,Jeff,Keppinger,18,18,E6/G.3-H,ROE,Error,4,__3,"3B only",0,1,1,0,0,4,,1,2,ANA201305160,CHA,ANA,1,R,20130516,5,4,9,7
+keppj001,Jeff,Keppinger,14,14,W.3-H;2-3;1-2,NIBB,"Nonintentional Walk",7,123,Loaded,0,1,1,2,3,4,,4,4,ANA201305160,CHA,ANA,2,R,20130516,5,4,9,7
+wallb001,Brett,Wallace,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,0,ANA201304130,HOU,ANA,0,L,20130413,4,5,4,13
+wallb001,Brett,Wallace,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,2,0,ANA201304130,HOU,ANA,1,L,20130413,4,5,4,13
+wallb001,Brett,Wallace,2,2,6/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,6,4,3,ANA201304130,HOU,ANA,2,L,20130413,4,5,4,13
+wallb001,Brett,Wallace,14,14,W,NIBB,"Nonintentional Walk",6,_23,"2B & 3B",0,0,1,0,2,3,,2,1,ANA201304130,HOU,ANA,1,L,20130413,4,5,4,13
+ankir001,Rick,Ankiel,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,5,0,ANA201304120,HOU,ANA,0,L,20130412,5,0,10,4
+ankir001,Rick,Ankiel,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,4,ANA201304140,HOU,ANA,1,L,20130414,1,4,7,9
+ankir001,Rick,Ankiel,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,5,0,ANA201304120,HOU,ANA,1,L,20130412,5,0,10,4
+ankir001,Rick,Ankiel,21,21,D9/L+.3-H;1-3,2B,Double,5,1_3,"1B & 3B",0,1,2,3,0,4,,4,0,ANA201304120,HOU,ANA,1,L,20130412,5,0,10,4
+ankir001,Rick,Ankiel,20,20,S7/G.3-H;2-H;1-3,1B,Single,7,123,Loaded,0,2,1,3,4,4,,1,0,ANA201304120,HOU,ANA,2,L,20130412,5,0,10,4
+butlb003,Billy,Butler,2,2,8/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,9,4,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+butlb003,Billy,Butler,20,20,S7/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,1,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+butlb003,Billy,Butler,20,20,S7/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,11,4,ANA201305130,KCA,ANA,0,R,20130513,11,4,19,9
+butlb003,Billy,Butler,23,23,HR/89/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,1,3,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+butlb003,Billy,Butler,2,2,7/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,0,0,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+butlb003,Billy,Butler,2,2,54(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,43,8,1,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+butlb003,Billy,Butler,21,21,D9/F.1-H,2B,Double,1,1__,"1B only",0,1,2,4,0,0,,0,0,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+butlb003,Billy,Butler,21,21,D7/G+.1-H,2B,Double,1,1__,"1B only",0,1,2,4,0,0,,0,0,ANA201305140,KCA,ANA,1,R,20130514,2,6,6,12
+butlb003,Billy,Butler,2,2,43/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,43,0,0,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+butlb003,Billy,Butler,14,14,W.2-3;1-2,NIBB,"Nonintentional Walk",3,12_,"1B & 2B",0,0,1,2,3,0,,8,2,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+butlb003,Billy,Butler,21,21,D9/F+.2-H;1-H,2B,Double,3,12_,"1B & 2B",0,2,2,4,4,0,,7,1,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+butlb003,Billy,Butler,2,2,8/L,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,8,2,5,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+butlb003,Billy,Butler,4,4,SB2,SB,"Stolen Base",5,1_3,"1B & 3B",0,0,0,2,0,3,,1,0,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+butlb003,Billy,Butler,20,20,S8/L.3-H;2-H,1B,Single,6,_23,"2B & 3B",0,2,1,0,4,4,,1,0,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+butlb003,Billy,Butler,20,20,S7/G.3-H;2-H;1-2,1B,Single,7,123,Loaded,0,2,1,2,4,4,,1,0,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+calla001,Alberto,Callaspo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,1,4,ANA201304100,OAK,ANA,0,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,0,0,ANA201304110,OAK,ANA,0,B,20130411,8,1,16,5
+calla001,Alberto,Callaspo,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,1,1,ANA201304110,OAK,ANA,1,B,20130411,8,1,16,5
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,0,ANA201305030,BAL,ANA,2,B,20130503,0,4,3,8
+calla001,Alberto,Callaspo,2,2,9/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,0,3,ANA201305040,BAL,ANA,1,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,4,4,ANA201305040,BAL,ANA,1,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,7,ANA201305130,KCA,ANA,0,B,20130513,11,4,19,9
+calla001,Alberto,Callaspo,2,2,5/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,5,4,11,ANA201305130,KCA,ANA,1,B,20130513,11,4,19,9
+calla001,Alberto,Callaspo,2,2,9/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,9,2,1,ANA201305140,KCA,ANA,2,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,5,9,ANA201305150,KCA,ANA,2,B,20130515,9,5,13,12
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,0,ANA201305160,CHA,ANA,0,B,20130516,5,4,9,7
+calla001,Alberto,Callaspo,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,4,5,ANA201305160,CHA,ANA,0,B,20130516,5,4,9,7
+calla001,Alberto,Callaspo,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,1,ANA201305170,CHA,ANA,0,B,20130517,3,0,8,3
+calla001,Alberto,Callaspo,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,0,ANA201305180,CHA,ANA,2,B,20130518,9,12,17,12
+calla001,Alberto,Callaspo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,2,5,ANA201304100,OAK,ANA,0,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,3,0,ANA201305030,BAL,ANA,0,B,20130503,0,4,3,8
+calla001,Alberto,Callaspo,20,20,S8/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,1,ANA201304100,OAK,ANA,1,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,4,ANA201305040,BAL,ANA,2,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,20,20,S9/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,4,5,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,11,ANA201305130,KCA,ANA,0,B,20130513,11,4,19,9
+calla001,Alberto,Callaspo,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,1,ANA201305150,KCA,ANA,2,B,20130515,9,5,13,12
+calla001,Alberto,Callaspo,21,21,D9/G,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,3,ANA201305130,KCA,ANA,0,B,20130513,11,4,19,9
+calla001,Alberto,Callaspo,2,2,7/L-,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,0,4,ANA201304090,OAK,ANA,0,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,2,2,43/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,43,5,9,ANA201304090,OAK,ANA,1,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,2,2,43/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,43,0,1,ANA201304110,OAK,ANA,1,B,20130411,8,1,16,5
+calla001,Alberto,Callaspo,2,2,9/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,0,2,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,2,2,8/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,3,1,ANA201305050,BAL,ANA,0,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,2,2,36(1)1/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,61,0,0,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,2,2,64(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,2,1,ANA201305160,CHA,ANA,2,B,20130516,5,4,9,7
+calla001,Alberto,Callaspo,2,2,64(1)3/GDP,Out,"Generic Out",1,1__,"1B only",2,0,0,0,0,0,43,0,1,ANA201305170,CHA,ANA,0,B,20130517,3,0,8,3
+calla001,Alberto,Callaspo,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,0,2,ANA201305170,CHA,ANA,1,B,20130517,3,0,8,3
+calla001,Alberto,Callaspo,3,3,K+SB2,K,Strikeout,1,1__,"1B only",1,0,0,2,0,0,2,2,4,ANA201304090,OAK,ANA,0,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,4,10,ANA201304100,OAK,ANA,2,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,5,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,6,6,CS2(26),CS,"Caught Stealing",1,1__,"1B only",1,0,0,0,0,0,,4,4,ANA201305040,BAL,ANA,0,B,20130504,5,4,12,6
+calla001,Alberto,Callaspo,11,11,BK.1-2,BK,Balk,1,1__,"1B only",0,0,0,2,0,0,,4,5,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,4,11,ANA201304100,OAK,ANA,2,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,20,20,S9/L-.1-3,1B,Single,1,1__,"1B only",0,0,1,3,0,0,,4,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,20,20,S61/G-.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,1,8,ANA201305150,KCA,ANA,1,B,20130515,9,5,13,12
+calla001,Alberto,Callaspo,2,2,7/F,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,7,4,10,ANA201304100,OAK,ANA,2,B,20130410,11,5,16,14
+calla001,Alberto,Callaspo,2,2,43/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,43,4,8,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,2,2,9/F,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,9,4,2,ANA201305160,CHA,ANA,1,B,20130516,5,4,9,7
+calla001,Alberto,Callaspo,9,9,WP.2-3,WP,"Wild Pitch",2,_2_,"2B only",0,0,0,0,3,0,,5,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,19,19,FC1/G.2X3(1565);B-2,FC,"Fielder Choice",2,_2_,"2B only",1,0,2,0,0,0,,4,5,ANA201305050,BAL,ANA,1,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,2,2,4/P,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,4,1,0,ANA201305030,BAL,ANA,2,B,20130503,0,4,3,8
+calla001,Alberto,Callaspo,20,20,S8/G.2-H;1-2,1B,Single,3,12_,"1B & 2B",0,1,1,2,4,0,,1,4,ANA201304090,OAK,ANA,2,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,20,20,S8/G.2-H;1-2,1B,Single,3,12_,"1B & 2B",0,1,1,2,4,0,,0,1,ANA201305050,BAL,ANA,2,B,20130505,8,4,8,11
+calla001,Alberto,Callaspo,3,3,K,K,Strikeout,4,__3,"3B only",1,0,0,0,0,3,2,5,4,ANA201304090,OAK,ANA,2,B,20130409,9,5,12,13
+calla001,Alberto,Callaspo,14,14,W,NIBB,"Nonintentional Walk",4,__3,"3B only",0,0,1,0,0,3,,5,2,ANA201305140,KCA,ANA,1,B,20130514,2,6,6,12
+calla001,Alberto,Callaspo,14,14,W,NIBB,"Nonintentional Walk",4,__3,"3B only",0,0,1,0,0,3,,4,9,ANA201305150,KCA,ANA,2,B,20130515,9,5,13,12
+calla001,Alberto,Callaspo,2,2,8/SF/L.3-H,Out,"Generic Out",5,1_3,"1B & 3B",1,1,0,1,0,4,8,2,8,ANA201305150,KCA,ANA,0,B,20130515,9,5,13,12
+dysoj001,Jarrod,Dyson,2,2,31/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,31,0,0,ANA201305130,KCA,ANA,0,L,20130513,11,4,19,9
+dysoj001,Jarrod,Dyson,2,2,3/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,3,7,1,ANA201305130,KCA,ANA,0,L,20130513,11,4,19,9
+dysoj001,Jarrod,Dyson,2,2,6/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,6,11,4,ANA201305130,KCA,ANA,2,L,20130513,11,4,19,9
+dysoj001,Jarrod,Dyson,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,0,0,ANA201305150,KCA,ANA,0,L,20130515,9,5,13,12
+dysoj001,Jarrod,Dyson,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,1,0,ANA201305150,KCA,ANA,0,L,20130515,9,5,13,12
+dysoj001,Jarrod,Dyson,20,20,S12/BG,1B,Single,0,___,Empty,0,0,1,0,0,0,,1,0,ANA201305130,KCA,ANA,1,L,20130513,11,4,19,9
+dysoj001,Jarrod,Dyson,2,2,46(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,8,2,ANA201305150,KCA,ANA,0,L,20130515,9,5,13,12
+dysoj001,Jarrod,Dyson,2,2,63/G,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,63,9,4,ANA201305150,KCA,ANA,2,L,20130515,9,5,13,12
+dysoj001,Jarrod,Dyson,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,10,3,ANA201305130,KCA,ANA,1,L,20130513,11,4,19,9
+dysoj001,Jarrod,Dyson,21,21,D9/F.2-H;1-3,2B,Double,3,12_,"1B & 2B",0,1,2,3,4,0,,3,1,ANA201305130,KCA,ANA,2,L,20130513,11,4,19,9
+dysoj001,Jarrod,Dyson,22,22,T9/L.3-H,3B,Triple,4,__3,"3B only",0,1,3,0,0,4,,7,0,ANA201305150,KCA,ANA,2,L,20130515,9,5,13,12
+dysoj001,Jarrod,Dyson,4,4,SB2,SB,"Stolen Base",5,1_3,"1B & 3B",0,0,0,2,0,3,,6,0,ANA201305150,KCA,ANA,2,L,20130515,9,5,13,12
+dysoj001,Jarrod,Dyson,10,10,PB.3-H;2-3,PB,"Passed Ball",6,_23,"2B & 3B",0,0,0,0,3,4,,6,0,ANA201305150,KCA,ANA,2,L,20130515,9,5,13,12
+getzc001,Chris,Getz,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,1,0,ANA201305130,KCA,ANA,0,L,20130513,11,4,19,9
+getzc001,Chris,Getz,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,11,4,ANA201305130,KCA,ANA,1,L,20130513,11,4,19,9
+getzc001,Chris,Getz,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,10,3,ANA201305130,KCA,ANA,0,L,20130513,11,4,19,9
+getzc001,Chris,Getz,2,2,3/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,3,7,1,ANA201305130,KCA,ANA,2,L,20130513,11,4,19,9
+getzc001,Chris,Getz,2,2,8/F,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,8,3,1,ANA201305130,KCA,ANA,1,L,20130513,11,4,19,9
+gorda001,Alex,Gordon,2,2,7/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,4,1,ANA201305130,KCA,ANA,0,L,20130513,11,4,19,9
+gorda001,Alex,Gordon,2,2,5/P,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,5,9,4,ANA201305150,KCA,ANA,1,L,20130515,9,5,13,12
+gorda001,Alex,Gordon,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,3,ANA201305140,KCA,ANA,1,L,20130514,2,6,6,12
+gorda001,Alex,Gordon,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305130,KCA,ANA,2,L,20130513,11,4,19,9
+gorda001,Alex,Gordon,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305150,KCA,ANA,2,L,20130515,9,5,13,12
+gorda001,Alex,Gordon,20,20,S7/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,8,1,ANA201305150,KCA,ANA,0,L,20130515,9,5,13,12
+gorda001,Alex,Gordon,21,21,D8/F,2B,Double,0,___,Empty,0,0,2,0,0,0,,0,0,ANA201305140,KCA,ANA,2,L,20130514,2,6,6,12
+gorda001,Alex,Gordon,2,2,7!/F-,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,0,0,ANA201305140,KCA,ANA,0,L,20130514,2,6,6,12
+gorda001,Alex,Gordon,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,2,5,ANA201305140,KCA,ANA,1,L,20130514,2,6,6,12
+gorda001,Alex,Gordon,20,20,S9/L.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,7,1,ANA201305130,KCA,ANA,1,L,20130513,11,4,19,9
+gorda001,Alex,Gordon,20,20,S4/G+.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,8,2,ANA201305150,KCA,ANA,2,L,20130515,9,5,13,12
+gorda001,Alex,Gordon,2,2,31/G,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,31,11,3,ANA201305130,KCA,ANA,2,L,20130513,11,4,19,9
+gorda001,Alex,Gordon,2,2,3/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,3,2,5,ANA201305140,KCA,ANA,1,L,20130514,2,6,6,12
+gorda001,Alex,Gordon,14,14,W.2-3;1-2,NIBB,"Nonintentional Walk",3,12_,"1B & 2B",0,0,1,2,3,0,,1,0,ANA201305150,KCA,ANA,0,L,20130515,9,5,13,12
+gorda001,Alex,Gordon,3,3,K,K,Strikeout,5,1_3,"1B & 3B",1,0,0,1,0,3,2,1,0,ANA201305130,KCA,ANA,1,L,20130513,11,4,19,9
+penab002,Brayan,Pena,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,1,3,ANA201304210,DET,ANA,0,B,20130421,3,4,10,7
+penab002,Brayan,Pena,2,2,53/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,3,3,ANA201304210,DET,ANA,1,B,20130421,3,4,10,7
+penab002,Brayan,Pena,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,3,3,ANA201304210,DET,ANA,2,B,20130421,3,4,10,7
+penab002,Brayan,Pena,20,20,S3/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,3,ANA201304210,DET,ANA,1,B,20130421,3,4,10,7
+penab002,Brayan,Pena,2,2,7!/F-,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,0,0,ANA201304210,DET,ANA,0,B,20130421,3,4,10,7
+penab002,Brayan,Pena,2,2,8/F,Out,"Generic Out",5,1_3,"1B & 3B",1,0,0,1,0,3,8,3,3,ANA201304210,DET,ANA,2,B,20130421,3,4,10,7
+cainl001,Lorenzo,Cain,2,2,7/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,0,0,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+cainl001,Lorenzo,Cain,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,1,0,ANA201305130,KCA,ANA,0,R,20130513,11,4,19,9
+cainl001,Lorenzo,Cain,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+cainl001,Lorenzo,Cain,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+cainl001,Lorenzo,Cain,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,8,2,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+cainl001,Lorenzo,Cain,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,9,5,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+cainl001,Lorenzo,Cain,14,14,W,NIBB,"Nonintentional Walk",0,___,Empty,0,0,1,0,0,0,,2,5,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+cainl001,Lorenzo,Cain,20,20,S7/L,1B,Single,0,___,Empty,0,0,1,0,0,0,,3,1,ANA201305130,KCA,ANA,0,R,20130513,11,4,19,9
+cainl001,Lorenzo,Cain,21,21,D7/G,2B,Double,0,___,Empty,0,0,2,0,0,0,,8,4,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+cainl001,Lorenzo,Cain,3,3,K,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,2,11,4,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+cainl001,Lorenzo,Cain,3,3,K23,K,Strikeout,1,1__,"1B only",1,0,0,1,0,0,23,1,2,ANA201305140,KCA,ANA,2,R,20130514,2,6,6,12
+cainl001,Lorenzo,Cain,20,20,S7/G.2-H;1-3;B-2(TH),1B,Single,3,12_,"1B & 2B",0,1,2,3,4,0,,4,1,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+cainl001,Lorenzo,Cain,20,20,S7/L.3-H,1B,Single,4,__3,"3B only",0,1,1,0,0,4,,9,1,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+cainl001,Lorenzo,Cain,21,21,D7/L.3-H;2-H;1-H,2B,Double,7,123,Loaded,0,3,2,4,4,4,,3,0,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+escoa003,Alcides,Escobar,2,2,2/P2F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305140,KCA,ANA,1,R,20130514,2,6,6,12
+escoa003,Alcides,Escobar,2,2,43/G-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,1,3,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+escoa003,Alcides,Escobar,2,2,43/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,43,0,0,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+escoa003,Alcides,Escobar,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,0,0,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+escoa003,Alcides,Escobar,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,9,4,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+escoa003,Alcides,Escobar,20,20,S7/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,7,1,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+escoa003,Alcides,Escobar,20,20,S9/L-,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,0,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+escoa003,Alcides,Escobar,2,2,4/P,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,4,2,5,ANA201305140,KCA,ANA,0,R,20130514,2,6,6,12
+escoa003,Alcides,Escobar,2,2,7/L,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,8,2,ANA201305150,KCA,ANA,1,R,20130515,9,5,13,12
+escoa003,Alcides,Escobar,4,4,SB2,SB,"Stolen Base",1,1__,"1B only",0,0,0,2,0,0,,1,0,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+escoa003,Alcides,Escobar,20,20,S87/F.1-2,1B,Single,1,1__,"1B only",0,0,1,2,0,0,,1,0,ANA201305150,KCA,ANA,0,R,20130515,9,5,13,12
+escoa003,Alcides,Escobar,21,21,D7/L.1-H,2B,Double,1,1__,"1B only",0,1,2,4,0,0,,10,3,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+escoa003,Alcides,Escobar,20,20,S1/G.2-3,1B,Single,2,_2_,"2B only",0,0,1,0,3,0,,1,0,ANA201305130,KCA,ANA,1,R,20130513,11,4,19,9
+escoa003,Alcides,Escobar,2,2,7/F,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,7,8,0,ANA201305150,KCA,ANA,2,R,20130515,9,5,13,12
+escoa003,Alcides,Escobar,2,2,53/G,Out,"Generic Out",6,_23,"2B & 3B",1,0,0,0,2,3,53,4,1,ANA201305130,KCA,ANA,2,R,20130513,11,4,19,9
+fielp001,Prince,Fielder,3,3,K+WP.B-1,K,Strikeout,0,___,Empty,0,0,1,0,0,0,,0,9,ANA201304200,DET,ANA,2,L,20130420,0,10,4,14
+fielp001,Prince,Fielder,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,3,3,ANA201304210,DET,ANA,0,L,20130421,3,4,10,7
+fielp001,Prince,Fielder,20,20,S8/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,9,ANA201304200,DET,ANA,0,L,20130420,0,10,4,14
+fielp001,Prince,Fielder,2,2,8/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,8,1,8,ANA201304190,DET,ANA,2,L,20130419,1,8,10,16
+fielp001,Prince,Fielder,2,2,7/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,7,3,3,ANA201304210,DET,ANA,0,L,20130421,3,4,10,7
+fielp001,Prince,Fielder,14,14,W.1-2,NIBB,"Nonintentional Walk",1,1__,"1B only",0,0,1,2,0,0,,0,2,ANA201304190,DET,ANA,2,L,20130419,1,8,10,16
+fielp001,Prince,Fielder,23,23,HR/9/F.1-H,HR,Homerun,1,1__,"1B only",0,2,4,4,0,0,,1,3,ANA201304210,DET,ANA,1,L,20130421,3,4,10,7
+fielp001,Prince,Fielder,2,2,43/G.2-3,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,3,0,43,0,9,ANA201304200,DET,ANA,0,L,20130420,0,10,4,14
+fielp001,Prince,Fielder,2,2,46(1)3/GDP,Out,"Generic Out",3,12_,"1B & 2B",2,0,0,0,2,0,63,0,0,ANA201304190,DET,ANA,1,L,20130419,1,8,10,16
+fielp001,Prince,Fielder,14,14,W.2-3;1-2,NIBB,"Nonintentional Walk",3,12_,"1B & 2B",0,0,1,2,3,0,,3,3,ANA201304210,DET,ANA,2,L,20130421,3,4,10,7
+fielp001,Prince,Fielder,20,20,S15/G.2-3;1-2,1B,Single,3,12_,"1B & 2B",0,0,1,2,3,0,,0,0,ANA201304210,DET,ANA,1,L,20130421,3,4,10,7
+fielp001,Prince,Fielder,2,2,6/P,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,6,0,0,ANA201304190,DET,ANA,2,L,20130419,1,8,10,16
+fielp001,Prince,Fielder,2,2,46(1)3/GDP,Out,"Generic Out",7,123,Loaded,2,0,0,0,2,3,63,0,2,ANA201304190,DET,ANA,1,L,20130419,1,8,10,16
+fielp001,Prince,Fielder,2,2,13/G-,Out,"Generic Out",7,123,Loaded,1,0,0,1,2,3,13,1,0,ANA201304210,DET,ANA,2,L,20130421,3,4,10,7
+kottg001,George,Kottaras,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,11,4,ANA201305130,KCA,ANA,0,L,20130513,11,4,19,9
+casia001,Alexi,Casilla,2,2,53/G+,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,53,0,1,ANA201305030,BAL,ANA,1,B,20130503,0,4,3,8
+casia001,Alexi,Casilla,2,2,13/G-,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,4,ANA201305030,BAL,ANA,1,B,20130503,0,4,3,8
+casia001,Alexi,Casilla,2,2,143/G,Out,"Generic Out",3,12_,"1B & 2B",1,0,0,1,2,0,143,0,1,ANA201305030,BAL,ANA,2,B,20130503,0,4,3,8
+hardj003,J.J.,Hardy,2,2,63/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,63,3,0,ANA201305020,BAL,ANA,2,R,20130502,5,1,10,4
+hardj003,J.J.,Hardy,2,2,4/L,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,4,5,4,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+hardj003,J.J.,Hardy,3,3,K,K,Strikeout,0,___,Empty,1,0,0,0,0,0,2,4,0,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+hardj003,J.J.,Hardy,18,18,E6/G,ROE,Error,0,___,Empty,0,0,1,0,0,0,,1,3,ANA201305050,BAL,ANA,1,R,20130505,8,4,8,11
+hardj003,J.J.,Hardy,20,20,S9/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,0,1,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+hardj003,J.J.,Hardy,20,20,S6/G,1B,Single,0,___,Empty,0,0,1,0,0,0,,2,0,ANA201305040,BAL,ANA,0,R,20130504,5,4,12,6
+hardj003,J.J.,Hardy,23,23,HR/7/F,HR,Homerun,0,___,Empty,0,1,4,0,0,0,,1,0,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+hardj003,J.J.,Hardy,2,2,9/F,Out,"Generic Out",1,1__,"1B only",1,0,0,1,0,0,9,0,0,ANA201305020,BAL,ANA,2,R,20130502,5,1,10,4
+hardj003,J.J.,Hardy,2,2,53/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,53,1,0,ANA201305020,BAL,ANA,1,R,20130502,5,1,10,4
+hardj003,J.J.,Hardy,2,2,64(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,0,0,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+hardj003,J.J.,Hardy,2,2,64(1)/FO/G,Out,"Generic Out",1,1__,"1B only",1,0,1,0,0,0,,0,3,ANA201305030,BAL,ANA,2,R,20130503,0,4,3,8
+hardj003,J.J.,Hardy,2,2,63/G.1-2,Out,"Generic Out",1,1__,"1B only",1,0,0,2,0,0,63,4,4,ANA201305040,BAL,ANA,1,R,20130504,5,4,12,6
+hardj003,J.J.,Hardy,2,2,7/F-,Out,"Generic Out",2,_2_,"2B only",1,0,0,0,2,0,7,3,0,ANA201305040,BAL,ANA,2,R,20130504,5,4,12,6
+hardj003,J.J.,Hardy,23,23,HR/78/F.2-H,HR,Homerun,2,_2_,"2B only",0,2,4,0,4,0,,1,3,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+hardj003,J.J.,Hardy,20,20,S9/G.2-3;1-2,1B,Single,3,12_,"1B & 2B",0,0,1,2,3,0,,6,4,ANA201305050,BAL,ANA,2,R,20130505,8,4,8,11
+hardj003,J.J.,Hardy,2,2,53/G,Out,"Generic Out",4,__3,"3B only",1,0,0,0,0,3,53,2,0,ANA201305020,BAL,ANA,2,R,20130502,5,1,10,4
+harrb001,Brendan,Harris,2,2,8/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,8,5,9,ANA201304090,OAK,ANA,0,R,20130409,9,5,12,13
+harrb001,Brendan,Harris,2,2,7/F,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,7,1,6,ANA201304110,OAK,ANA,1,R,20130411,8,1,16,5
+harrb001,Brendan,Harris,2,2,13/G,Out,"Generic Out",0,___,Empty,1,0,0,0,0,0,13,0,5,ANA201304120,HOU,ANA,2,R,20130412,5,0,10,4

@@ -21,7 +21,7 @@ SELECT eve.BAT_ID, rost.FIRST_NAME_TX, rost.LAST_NAME_TX, eve.EVENT_CD, lkpe.VAL
 		LEFT JOIN lkup_cd_bases lkpb
 			ON (eve.START_BASES_CD = lkpb.VALUE_CD)
 		-- join the games info
-		RIGHT JOIN games gm
+		LEFT JOIN games gm
 			ON (eve.GAME_ID = gm.GAME_ID)
 		-- join the roster information
 		LEFT JOIN rosters rost
@@ -31,7 +31,7 @@ SELECT eve.BAT_ID, rost.FIRST_NAME_TX, rost.LAST_NAME_TX, eve.EVENT_CD, lkpe.VAL
         -- no real need to order, just for small data cleanup:
 		-- ORDER BY rost.LAST_NAME_TX DESC
         -- should expand for no limit during data output
-		limit 200000;
+		limit 10000000;
            
 			
 -- BASELINE QUERY, used to fill in needed columns for efficient one ^^^^ :
@@ -41,7 +41,7 @@ SELECT *
 			ON (eve.EVENT_CD = lkpe.VALUE_CD)
 		LEFT JOIN lkup_cd_bases lkpb
 			ON (eve.START_BASES_CD = lkpb.VALUE_CD)
-		RIGHT JOIN games gm
+		LEFT JOIN games gm
 			ON (eve.GAME_ID = gm.GAME_ID)
 		LEFT JOIN rosters rost
 			ON (eve.BAT_ID = rost.PLAYER_ID)
