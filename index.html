@@ -11,4 +11,28 @@
 <h1 style="color:white;">"This is the future home of Scott Baker's final project for CSCI 4831: Sabermetrics at CU Boulder"</h1>
 <br><br>
  <h2 style="color:green;">Coming May 7th, 2018
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.js"></script>
+<script>
+    function arrayToTable(tableData) {
+        var table = $('<table></table>');
+        $(tableData).each(function (i, rowData) {
+            var row = $('<tr></tr>');
+            $(rowData).each(function (j, cellData) {
+                row.append($('<td>'+cellData+'</td>'));
+            });
+            table.append(row);
+        });
+        return table;
+    }
+
+    $.ajax({
+        type: "GET",
+        url: "https://raw.githubusercontent.com/bakerscott/CU-Sabermetrics-Final/master/SQL/rawData2010_2013.csv",
+        success: function (data) {
+            $('body').append(arrayToTable(Papa.parse(data).data));
+        }
+    });
+</script>
 </html>
