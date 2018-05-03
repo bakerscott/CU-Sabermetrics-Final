@@ -6,7 +6,12 @@ Final project for CSCI 4831: Sabermetrics at University of Colorado, Boulder
 * /SQL/ folder includes v2 .sql script good enough to output correct .csv file
 	* still debug the join between events and rosters; workaround prefered
 
-
+* /Python/ folder includes v2 .ipynb script with skeleton outline for calulation
+	* need to add marginal weights for runs and outs
+	* need to add "advancing" runners weights
+	* need to consider case of "sac hits"
+	
+	
 ## UPDATES APRIL 30, 2018:
 
 * /SQL/ folder includes v1 .sql script
