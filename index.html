@@ -3,12 +3,16 @@
 <link rel="icon" href="Images/favicon2.ico" type="image/x-icon">
 <style>
 
+body{
+  background-color: green;
+  text-align: center;
+}
 
-.container .button {
-  top: 50%;
-  left: 50%;
-  transform: translate(100%,100%);
-  -ms-transform: translate(100%,100%);
+button .b2{
+  margin-left: auto;
+  margin-right: auto;
+  transform: translate(0%,0%);
+  -ms-transform: translate(0%,0%);
   background-color: #4CAF50;
   border: 2px solid white;
   color: white;
@@ -19,10 +23,23 @@
   border-radius: 5px;
 }
 
-
-.container .button:hover {
+button:hover {
   background-color: green;
   color: black;
+}
+
+button{
+  position: relative;
+  bottom:200px;
+  left:0%;
+  background-color: #4CAF50;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
 }
 
 .content {
@@ -34,31 +51,30 @@
   border: 5px solid white;
 }
 
-.body{
-  background-color: green;
-  text-align: center;
-}
-
 .cssTitle{
-  width: 960px;
+  position: relative;
+  width: 1000px;
   text-align: center;
-  border: 10px white;
   color: white;
   font-size: 48px;
 }
 
 
-
 .container {
   text-align: center;
   position: relative;
-  width: 50%;
+  width: 1000px;
+  margin: auto;
+  font-family: Courier;
+  border: 5px solid white;
 }
 
-.container img{
-  position: absolute;
-  width: 50%;
-  height: auto;
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100%;
 }
 
 
@@ -78,7 +94,6 @@
 
 
 
-<body class="body">
 </head>
 
 
@@ -91,17 +106,18 @@
     <h1 style="color:white;">"This is the future home of Scott Baker's final project for CSCI 4831: Sabermetrics at CU Boulder"</h1>
     <br><br>
     <h2 style="color:green;">Coming May 7th, 2018 </h2>
-
-
-    <button class="button">
+    <br>
+    <button>
     Testing
     </button>
-
+    <br><br>
   </div>
 
+  <br>
   <div class="container">
-    <img src="Python/base_average.png"/>
-    <button class="button">stuff</button>
+    <img class="image" src="Python/base_average.png"/>
+    <button>stuff</button>
+
   </div>
     </body>
 </html>
