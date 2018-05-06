@@ -1,12 +1,10 @@
-# README for rawData2010_2013_v2.csv
+## Files:
 
-## GOAL:
-to look at "transitions" in game state for certain players
+* `Baker_Scott_Final_Project.sql` : sql script for exporting `rawData2010_2013_v2.csv`
+* `Baker_Scott_Final_Project_rosterExport.sql` : sql script for exporting `rosterData2010_2013.csv`
 
-## Data:
-play-by-play data for every play that happened in MLB from 2010-2013, including playoffs
 
-## Columns
+## Columns in rawData2010_2013_v2.csv:
 * `GAME_DT` - data of the game in form yyyymmdd (2010 data has form 10mmdd)
 * `GAME_ID` - ID for the game, has home team and data embedded
 * `battingTeam` - team that the batter in the even is on

@@ -1,15 +1,107 @@
 <!DOCTYPE html>
 <head>
 <link rel="icon" href="Images/favicon2.ico" type="image/x-icon">
-</head>
+<style>
+
+
+.container .button {
+  top: 50%;
+  left: 50%;
+  transform: translate(100%,100%);
+  -ms-transform: translate(100%,100%);
+  background-color: #4CAF50;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+.container .button:hover {
+  background-color: green;
+  color: black;
+}
+
+.content {
+  background-color: black;
+  position: relative;
+  width: 1000px;
+  margin: auto;
+  font-family: Courier;
+  border: 5px solid white;
+}
+
+.body{
+  background-color: green;
+  text-align: center;
+}
+
+.cssTitle{
+  width: 960px;
+  text-align: center;
+  border: 10px white;
+  color: white;
+  font-size: 48px;
+}
+
+
+
+.container {
+  text-align: center;
+  position: relative;
+  width: 50%;
+}
+
+.container img{
+  position: absolute;
+  width: 50%;
+  height: auto;
+}
+
+
+
+
 <title>
  Sabermetrics Final Project || CSCI 4831
 </title>
+
+
+
 <html lang="en-US">
-<body style="background-color:black;">
+</style>
 
-<h1 style="color:white;">"This is the future home of Scott Baker's final project for CSCI 4831: Sabermetrics at CU Boulder"</h1>
-<br><br>
- <h2 style="color:green;">Coming May 7th, 2018 </h2>
 
+
+
+
+
+<body class="body">
+</head>
+
+
+<body>
+  <br>
+  <div class="content">
+    <br>
+    <h1 class="cssTitle"> marginal Situational Hitting Score: a new statistic</h1>
+
+    <h1 style="color:white;">"This is the future home of Scott Baker's final project for CSCI 4831: Sabermetrics at CU Boulder"</h1>
+    <br><br>
+    <h2 style="color:green;">Coming May 7th, 2018 </h2>
+
+
+    <button class="button">
+    Testing
+    </button>
+
+  </div>
+
+  <div class="container">
+    <img src="Python/base_average.png"/>
+    <button class="button">stuff</button>
+  </div>
+    </body>
 </html>
