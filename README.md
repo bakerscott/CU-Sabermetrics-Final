@@ -1,7 +1,7 @@
 # CU-Sabermetrics-Final
 Final project for CSCI 4831: Sabermetrics at University of Colorado, Boulder
 
-## FINAL UPDATES FOR SUBMISSION: MAY 7, 2018 11am:
+## FINAL UPDATES FOR SUBMISSION (MAY 7, 2018 11am) :
 
 * `/SQL/` includes:
 	* `Baker_Scott_Final_Project.sql`: main sql file run on standard Retrosheet database
@@ -12,15 +12,22 @@ Final project for CSCI 4831: Sabermetrics at University of Colorado, Boulder
 	* `mSHS_database.sql`: sql script to build a database with the mSHS scores
 		* `mSHSdatabase.csv`: data file used to build this script
 
+
+
 * `/Python/` includes:
 	* `Baker_Scott_Final_Project.ipynb`: Jupyter Notebook with analysis and output to:
 		* `mSHS.csv`: data file with all players mSHS values
 	* Images used in the writeup, from the Jupyter Notebook
 
+
+
 * `/Writeup` includes:
 	* `mSHS-Baker-Scott.pdf`: MAIN WRITEUP about the mSHS statistic
 
+
+
 * `/Images/` includes all images to make the website pretty
+
 
 
 * Main Folder includes:
