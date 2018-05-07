@@ -5,7 +5,7 @@ Final project for CSCI 4831: Sabermetrics at University of Colorado, Boulder
 
 * Video can be found at: [https://youtu.be/6HhfQiUxFPw](https://youtu.be/6HhfQiUxFPw)
 
-* Website link: [bakerscott.github.io/CU-Sabermetrics-Final](bakerscott.github.io/CU-Sabermetrics-Final)
+* Website link: [https://bakerscott.github.io/CU-Sabermetrics-Final](https://bakerscott.github.io/CU-Sabermetrics-Final)
 
 * `/SQL/` includes:
 	* `Baker_Scott_Final_Project.sql`: main sql file run on standard Retrosheet database
