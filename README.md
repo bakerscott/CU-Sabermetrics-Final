@@ -3,6 +3,9 @@ Final project for CSCI 4831: Sabermetrics at University of Colorado, Boulder
 
 ## FINAL UPDATES FOR SUBMISSION (MAY 7, 2018 11am) :
 
+* Video can be found at: `https://youtu.be/6HhfQiUxFPw`
+
+
 * `/SQL/` includes:
 	* `Baker_Scott_Final_Project.sql`: main sql file run on standard Retrosheet database
 		* `rawData2010_2013.csv`: saved from this sql file
